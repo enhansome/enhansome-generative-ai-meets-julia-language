@@ -1,0 +1,525 @@
+{
+  "items": [
+    {
+      "description": "Build, train, and deploy Large language models (and other modalities) in Julia.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Flux.jl",
+          "description": "Flux is a machine learning library for Julia that is flexible and allows building complex models. However, at the time of writing, I'm not aware of any Large Language Models (LLMs) that have been implemented and trained in Flux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2026-08-11T10:54:22Z",
+            "owner": "FluxML",
+            "repo": "Flux.jl",
+            "stars": 4734
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Transformers.jl",
+          "description": "Transformers.jl is a Julia package that provides a high-level API for using pre-trained transformer models. It also allows to download any models from Hugging Face hub with macro string.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2026-07-31T00:47:30Z",
+            "owner": "chengchingwen",
+            "repo": "Transformers.jl",
+            "stars": 571
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Llama2.jl",
+          "description": "Llama2.jl provides simple code for inference and training of llama2-based language models based on llama2.c. It supports loading quantized weights in GGUF format ( variant). Other similar projects: LanguageModels.jl",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2024-08-15T17:29:09Z",
+            "owner": "cafaxo",
+            "repo": "Llama2.jl",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pickle.jl",
+          "description": "Great package for loading Pytorch weights into Julia (if you want to implement models yourself).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2026-04-12T18:01:40Z",
+            "owner": "chengchingwen",
+            "repo": "Pickle.jl",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Whisper.jl",
+          "description": "Julia interface to whisper.cpp, a high-performance inference in C/C++ of OpenAI's Whisper automatic speech recognition (ASR) model.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2024-01-03T12:04:34Z",
+            "owner": "aviks",
+            "repo": "Whisper.jl",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Llama.jl",
+          "description": "Julia interface to llama.cpp, a C/C++ library for running language models locally. Supports a wide range of models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2025-02-25T19:13:24Z",
+            "owner": "marcom",
+            "repo": "LlamaCpp.jl",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BytePairEncoding.jl",
+          "description": "Pure Julia implementation of Byte Pair Encoding (BPE) algorithm. It's used by Transformers.jl to tokenize text.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2024-06-15T20:17:48Z",
+            "owner": "chengchingwen",
+            "repo": "BytePairEncoding.jl",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "Models"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "API SDKs"
+    },
+    {
+      "description": "Access Generative AI models via SDKs of popular cloud service providers.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GoogleCloud.jl",
+          "description": "SDK for Google Cloud. There is an open PR to enable Vertex AI endpoints.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2024-01-11T13:06:45Z",
+            "owner": "JuliaCloud",
+            "repo": "GoogleCloud.jl",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GoogleGenAI.jl",
+          "description": "Unofficial wrapper for the Google Gemini API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2025-08-31T18:32:13Z",
+            "owner": "tylerjthomas9",
+            "repo": "GoogleGenAI.jl",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Cloud Services Providers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "General-purpose DBMS with Vector Index Support"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PromptingTools.jl",
+          "description": "Helps with everyday applications of Large Language Models in Julia by wrapping coming APIs, re-using prompts via templates, and enabling easy transition between different model providers (eg, OpenAI, Ollama). (Disclaimer: I'm the author of this package.)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2026-07-03T03:03:48Z",
+            "owner": "svilupp",
+            "repo": "PromptingTools.jl",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReplGPT.jl",
+          "description": "Brings ChatGPT interface as a Julia REPL mode.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2024-04-17T14:27:19Z",
+            "owner": "ThatcherC",
+            "repo": "ReplGPT.jl",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AIHelpMe.jl",
+          "description": "Enhanced AI code assistance by leveraging package documentation (Retrieval Augmented Generation). Comes pre-packaged for common Julia packages, but can be used for any package.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2024-08-19T18:08:49Z",
+            "owner": "svilupp",
+            "repo": "AIHelpMe.jl",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLMTextAnalysis.jl",
+          "description": "Leverage Large Language Models to uncover, evaluate, and label themes/concepts/spectra in large document collections. (Disclaimer: I'm the author of this package.)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2025-02-01T18:35:51Z",
+            "owner": "svilupp",
+            "repo": "LLMTextAnalysis.jl",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RAGTools.jl",
+          "description": "Build and use Retrieval-Augmented Generation (RAG) systems. A module carved out of PromptingTools.jl.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2025-11-27T19:22:23Z",
+            "owner": "JuliaGenAI",
+            "repo": "RAGTools.jl",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GenGPT3.jl",
+          "description": "A Gen.jl generative function that wraps the OpenAI API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2024-07-14T23:07:52Z",
+            "owner": "probcomp",
+            "repo": "GenGPT3.jl",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HelpGPT.jl",
+          "description": "Calls ChatGPT to explain any errors in Julia code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2023-04-03T17:59:33Z",
+            "owner": "FedeClaudi",
+            "repo": "HelpGPT.jl",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ProToPortal.jl",
+          "description": "Web-based graphical interface for PromptingTools.jl with extra prompt templates and functionality (Julia code execution and auto-fixing, meta-prompting, auto-critic, speech-to-text entry). Similar to ChatGPT but geared towards Julia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2024-07-14T10:24:13Z",
+            "owner": "svilupp",
+            "repo": "ProToPortal.jl",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AIHelpUI.jl",
+          "description": "Web-based graphical interface for AIHelpMe.jl built on top of Stipple.jl.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2025-02-26T16:38:47Z",
+            "owner": "BuiltWithGenie",
+            "repo": "PkgAIHelp",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Packages"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Julia LLM Leaderboard",
+          "description": "Comparison of Julia language generation capabilities of various Large Language Models across a range of tasks. Visit if you want help choosing the right model for your application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-08-14T08:54:24Z",
+            "owner": "svilupp",
+            "repo": "Julia-LLM-Leaderboard",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HumanEval.jl",
+          "description": "The Julia version of openai/human-eval. It rewrites the original Python problems into the Julia version and provides evaluation results with several latest LLMs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2024-08-17T12:45:41Z",
+            "owner": "01-ai",
+            "repo": "HumanEval.jl",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "Benchmarks/Comparisons"
+    },
+    {
+      "description": "New projects that are still waiting to prove themselves and collect enough stars.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FlashRank.jl",
+          "description": "Fast and local document ranking with models that can run on any computer (CPU-based). Based on Python's FlashRank.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2024-11-18T10:14:09Z",
+            "owner": "svilupp",
+            "repo": "FlashRank.jl",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SwarmAgents.jl",
+          "description": "Based on OpenAI's Swarm package for multi-agent systems with tight integration with PromptingTools.jl and additional features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2024-11-25T22:19:48Z",
+            "owner": "svilupp",
+            "repo": "SwarmAgents.jl",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SemanticCaches.jl",
+          "description": "Smarter caching for GenAI applications with a tiny embedding model - reducing latency, one request at a time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2024-11-18T12:10:48Z",
+            "owner": "svilupp",
+            "repo": "SemanticCaches.jl",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChromeDevToolsLite.jl",
+          "description": "Browser automation using the Chrome DevTools Protocol (CDP). Ideal for Computer Use with LLMs. Inspired by Python's Playwright but providing just the essential functionality to get you started with browser automation in Julia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2025-11-24T05:18:31Z",
+            "owner": "svilupp",
+            "repo": "ChromeDevToolsLite.jl",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spehulak.jl",
+          "description": "GenAI observability platform for debugging your LLM calls. Fully integrated with PromptingTools.jl.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2024-12-23T08:38:27Z",
+            "owner": "svilupp",
+            "repo": "Spehulak.jl",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLMCheatsheets.jl",
+          "description": "Summarize GitHub repositories into AI-friendly cheatsheets with a single command.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2024-11-18T15:13:21Z",
+            "owner": "svilupp",
+            "repo": "LLMCheatsheets.jl",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StreamCallbacks.jl",
+          "description": "Unifies LLM streaming interfaces, simplifies SSE handling, and provides built-in sinks for streaming data. Easy to extend with custom logic.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2025-11-28T14:04:11Z",
+            "owner": "svilupp",
+            "repo": "StreamCallbacks.jl",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OmniParserIconDetectors.jl",
+          "description": "Lightweight Julia wrapper for Microsoft's OmniParser icon detection model with additional utilities for working with screenshots (eg, drawing detections, adding labels).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2025-11-24T08:23:34Z",
+            "owner": "svilupp",
+            "repo": "OmniParserIconDetectors.jl",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Waiting Room"
+    },
+    {
+      "description": "Some of the below projects are not necessarily Julia-specific, but noteworthy mentions in the generative AI space and interesting for Julia developers.",
+      "items": [],
+      "title": "Noteworthy Mentions"
+    },
+    {
+      "description": "Python is on the leading edge of the generative AI revolution. Fortunately, we have PythonCall.jl allowing us to easily call all the below Python packages.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LangChain",
+          "description": "The best option for building applications on top of LLMs (eg, Chains, Agents). It has a lot of adapters for common models, databases, and other services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T19:15:42Z",
+            "owner": "langchain-ai",
+            "repo": "langchain",
+            "stars": 144178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Interpreter",
+          "description": "Let LLMs run code on your computer (eg, Python, JavaScript, Shell, and more). An open-source local alternative to OpenAI Code Interpreter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-08T19:04:44Z",
+            "owner": "openinterpreter",
+            "repo": "openinterpreter",
+            "stars": 68000
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Llama Index",
+          "description": "Similar to LangChain but with a focus on data-centered applications like RAG.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T18:07:47Z",
+            "owner": "run-llama",
+            "repo": "llama_index",
+            "stars": 51623
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Instructor",
+          "description": "Simple yet powerful structured extraction framework on top of OpenAI API. Excellent to understand the power of function calling API together with Pydantic.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T14:55:49Z",
+            "owner": "567-labs",
+            "repo": "instructor",
+            "stars": 13726
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Marvin",
+          "description": "Powerful building blocks to quickly build AI applications and expose them via a production-ready API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T18:12:50Z",
+            "owner": "PrefectHQ",
+            "repo": "marvin",
+            "stars": 6188
+          }
+        }
+      ],
+      "title": "Must-Know Python Projects"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T20:00:23.787Z",
+    "original_repository": "svilupp/awesome-generative-ai-meets-julia-language",
+    "original_repository_sha": "27ce7f7b0721f3eba802d8e1aed18e324d48521c",
+    "enhanced_repository": "enhansome/enhansome-generative-ai-meets-julia-language",
+    "enhanced_repository_description": null,
+    "title": "Awesome Generative AI Meets Julia Programming Language with stars"
+  }
+}
