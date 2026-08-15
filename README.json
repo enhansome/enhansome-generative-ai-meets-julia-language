@@ -14,7 +14,7 @@
             "last_commit": "2026-08-14T14:11:37Z",
             "owner": "FluxML",
             "repo": "Flux.jl",
-            "stars": 4735
+            "stars": 4734
           }
         },
         {
@@ -448,10 +448,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T19:03:45Z",
+            "last_commit": "2026-08-15T08:07:42Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 144266
+            "stars": 144273
           }
         },
         {
@@ -462,10 +462,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T19:56:23Z",
+            "last_commit": "2026-08-15T11:38:29Z",
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68023
+            "stars": 68016
           }
         },
         {
@@ -479,7 +479,7 @@
             "last_commit": "2026-08-14T16:10:23Z",
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 51641
+            "stars": 51662
           }
         },
         {
@@ -493,7 +493,7 @@
             "last_commit": "2026-08-09T14:55:49Z",
             "owner": "567-labs",
             "repo": "instructor",
-            "stars": 13730
+            "stars": 13733
           }
         },
         {
@@ -515,7 +515,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T19:57:02.866Z",
+    "last_updated": "2026-08-15T19:36:19.554Z",
     "original_repository": "svilupp/awesome-generative-ai-meets-julia-language",
     "original_repository_sha": "27ce7f7b0721f3eba802d8e1aed18e324d48521c",
     "enhanced_repository": "enhansome/enhansome-generative-ai-meets-julia-language",
