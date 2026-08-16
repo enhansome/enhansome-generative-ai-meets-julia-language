@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "Julia",
-            "last_commit": "2026-08-14T14:11:37Z",
+            "last_commit": "2026-08-16T08:15:53Z",
             "owner": "FluxML",
             "repo": "Flux.jl",
             "stars": 4734
@@ -448,10 +448,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T08:07:42Z",
+            "last_commit": "2026-08-16T08:08:02Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 144273
+            "stars": 144349
           }
         },
         {
@@ -465,7 +465,7 @@
             "last_commit": "2026-08-15T11:38:29Z",
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68016
+            "stars": 68034
           }
         },
         {
@@ -479,7 +479,7 @@
             "last_commit": "2026-08-14T16:10:23Z",
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 51662
+            "stars": 51682
           }
         },
         {
@@ -493,7 +493,7 @@
             "last_commit": "2026-08-09T14:55:49Z",
             "owner": "567-labs",
             "repo": "instructor",
-            "stars": 13733
+            "stars": 13736
           }
         },
         {
@@ -504,7 +504,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-31T18:12:50Z",
+            "last_commit": "2026-08-16T08:28:07Z",
             "owner": "PrefectHQ",
             "repo": "marvin",
             "stars": 6189
@@ -515,7 +515,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T19:36:19.554Z",
+    "last_updated": "2026-08-16T19:35:06.153Z",
     "original_repository": "svilupp/awesome-generative-ai-meets-julia-language",
     "original_repository_sha": "27ce7f7b0721f3eba802d8e1aed18e324d48521c",
     "enhanced_repository": "enhansome/enhansome-generative-ai-meets-julia-language",
