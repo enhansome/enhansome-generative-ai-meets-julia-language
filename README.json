@@ -14,7 +14,7 @@
             "last_commit": "2026-08-16T08:15:53Z",
             "owner": "FluxML",
             "repo": "Flux.jl",
-            "stars": 4735
+            "stars": 4736
           }
         },
         {
@@ -448,10 +448,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T19:32:04Z",
+            "last_commit": "2026-08-18T17:38:11Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 144412
+            "stars": 144493
           }
         },
         {
@@ -465,7 +465,7 @@
             "last_commit": "2026-08-17T18:27:04Z",
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68046
+            "stars": 68055
           }
         },
         {
@@ -476,10 +476,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T04:43:20Z",
+            "last_commit": "2026-08-18T16:37:12Z",
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 51705
+            "stars": 51731
           }
         },
         {
@@ -493,7 +493,7 @@
             "last_commit": "2026-08-09T14:55:49Z",
             "owner": "567-labs",
             "repo": "instructor",
-            "stars": 13741
+            "stars": 13746
           }
         },
         {
@@ -507,7 +507,7 @@
             "last_commit": "2026-08-16T21:16:26Z",
             "owner": "PrefectHQ",
             "repo": "marvin",
-            "stars": 6189
+            "stars": 6190
           }
         }
       ],
@@ -515,7 +515,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T19:43:51.523Z",
+    "last_updated": "2026-08-18T19:41:29.788Z",
     "original_repository": "svilupp/awesome-generative-ai-meets-julia-language",
     "original_repository_sha": "27ce7f7b0721f3eba802d8e1aed18e324d48521c",
     "enhanced_repository": "enhansome/enhansome-generative-ai-meets-julia-language",
