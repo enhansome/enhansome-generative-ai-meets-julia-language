@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55262614,
             "language": "Julia",
             "last_commit": "2026-08-16T08:15:53Z",
             "owner": "FluxML",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 163255853,
             "language": "Julia",
             "last_commit": "2026-07-31T00:47:30Z",
             "owner": "chengchingwen",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 671962920,
             "language": "Julia",
             "last_commit": "2024-08-15T17:29:09Z",
             "owner": "cafaxo",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 253055853,
             "language": "Julia",
             "last_commit": "2026-04-12T18:01:40Z",
             "owner": "chengchingwen",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 584566467,
             "language": "Julia",
             "last_commit": "2024-01-03T12:04:34Z",
             "owner": "aviks",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 616636185,
             "language": "Julia",
             "last_commit": "2025-02-25T19:13:24Z",
             "owner": "marcom",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160192287,
             "language": "Julia",
             "last_commit": "2024-06-15T20:17:48Z",
             "owner": "chengchingwen",
@@ -105,51 +112,50 @@
       "title": "Models"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GoogleCloud.jl",
+              "description": "SDK for Google Cloud. There is an open PR to enable Vertex AI endpoints.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 69424957,
+                "language": "Julia",
+                "last_commit": "2024-01-11T13:06:45Z",
+                "owner": "JuliaCloud",
+                "repo": "GoogleCloud.jl",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GoogleGenAI.jl",
+              "description": "Unofficial wrapper for the Google Gemini API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 755823991,
+                "language": "Julia",
+                "last_commit": "2026-08-18T23:46:53Z",
+                "owner": "tylerjthomas9",
+                "repo": "GoogleGenAI.jl",
+                "stars": 18
+              }
+            }
+          ],
+          "description": "Access Generative AI models via SDKs of popular cloud service providers.",
+          "node_type": "group",
+          "title": "Cloud Services Providers"
+        }
+      ],
       "title": "API SDKs"
     },
     {
-      "description": "Access Generative AI models via SDKs of popular cloud service providers.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "GoogleCloud.jl",
-          "description": "SDK for Google Cloud. There is an open PR to enable Vertex AI endpoints.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Julia",
-            "last_commit": "2024-01-11T13:06:45Z",
-            "owner": "JuliaCloud",
-            "repo": "GoogleCloud.jl",
-            "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GoogleGenAI.jl",
-          "description": "Unofficial wrapper for the Google Gemini API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Julia",
-            "last_commit": "2025-08-31T18:32:13Z",
-            "owner": "tylerjthomas9",
-            "repo": "GoogleGenAI.jl",
-            "stars": 18
-          }
-        }
-      ],
-      "title": "Cloud Services Providers"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "General-purpose DBMS with Vector Index Support"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -158,6 +164,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 714369078,
             "language": "Julia",
             "last_commit": "2026-07-03T03:03:48Z",
             "owner": "svilupp",
@@ -172,6 +179,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 610991249,
             "language": "Julia",
             "last_commit": "2024-04-17T14:27:19Z",
             "owner": "ThatcherC",
@@ -186,6 +194,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 746633570,
             "language": "Julia",
             "last_commit": "2024-08-19T18:08:49Z",
             "owner": "svilupp",
@@ -200,6 +209,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 740059731,
             "language": "Julia",
             "last_commit": "2025-02-01T18:35:51Z",
             "owner": "svilupp",
@@ -214,6 +224,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 819093084,
             "language": "Julia",
             "last_commit": "2025-11-27T19:22:23Z",
             "owner": "JuliaGenAI",
@@ -228,6 +239,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 571791248,
             "language": "Julia",
             "last_commit": "2024-07-14T23:07:52Z",
             "owner": "probcomp",
@@ -242,6 +254,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 615781836,
             "language": "Julia",
             "last_commit": "2023-04-03T17:59:33Z",
             "owner": "FedeClaudi",
@@ -256,6 +269,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 792859215,
             "language": "Julia",
             "last_commit": "2024-07-14T10:24:13Z",
             "owner": "svilupp",
@@ -270,6 +284,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 776155859,
             "language": "Julia",
             "last_commit": "2025-02-26T16:38:47Z",
             "owner": "BuiltWithGenie",
@@ -281,7 +296,7 @@
       "title": "Packages"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -290,6 +305,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 727631309,
             "language": "HTML",
             "last_commit": "2024-08-14T08:54:24Z",
             "owner": "svilupp",
@@ -304,6 +320,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 754093194,
             "language": "Julia",
             "last_commit": "2024-08-17T12:45:41Z",
             "owner": "01-ai",
@@ -315,7 +332,7 @@
       "title": "Benchmarks/Comparisons"
     },
     {
-      "description": "New projects that are still waiting to prove themselves and collect enough stars.",
+      "description": "New projects that are still waiting to prove themselves and collect enough stars.\nUnreleased, experimental but functional:",
       "items": [
         {
           "node_type": "item",
@@ -324,6 +341,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 809021320,
             "language": "Julia",
             "last_commit": "2024-11-18T10:14:09Z",
             "owner": "svilupp",
@@ -338,6 +356,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 872021270,
             "language": "Julia",
             "last_commit": "2024-11-25T22:19:48Z",
             "owner": "svilupp",
@@ -352,6 +371,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 819261214,
             "language": "Julia",
             "last_commit": "2024-11-18T12:10:48Z",
             "owner": "svilupp",
@@ -366,6 +386,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 892259836,
             "language": "Julia",
             "last_commit": "2025-11-24T05:18:31Z",
             "owner": "svilupp",
@@ -380,6 +401,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 789668216,
             "language": "Julia",
             "last_commit": "2024-12-23T08:38:27Z",
             "owner": "svilupp",
@@ -394,6 +416,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 854078357,
             "language": "Julia",
             "last_commit": "2024-11-18T15:13:21Z",
             "owner": "svilupp",
@@ -408,6 +431,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 854093216,
             "language": "Julia",
             "last_commit": "2025-11-28T14:04:11Z",
             "owner": "svilupp",
@@ -422,11 +446,42 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 894072038,
             "language": "Julia",
             "last_commit": "2025-11-24T08:23:34Z",
             "owner": "svilupp",
             "repo": "OmniParserIconDetectors.jl",
             "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jjama3.jl",
+          "description": "Hackable Llama3.1, Llama3.2 (text), and Qwen 2.5 (eg. base, Qwen2.5-Coder, and Qwen2.5-Math) in Julia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 887581071,
+            "language": "Julia",
+            "last_commit": "2026-06-22T06:04:38Z",
+            "owner": "MurrellGroup",
+            "repo": "Jjama3.jl",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Milvus.jl",
+          "description": "A minimal and unofficial implementation of Milvus VectorDB client for Julia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 764468659,
+            "language": "Julia",
+            "last_commit": "2024-02-28T08:44:23Z",
+            "owner": "asbisen",
+            "repo": "Milvus.jl",
+            "stars": 2
           }
         }
       ],
@@ -434,7 +489,45 @@
     },
     {
       "description": "Some of the below projects are not necessarily Julia-specific, but noteworthy mentions in the generative AI space and interesting for Julia developers.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Stipple.jl",
+              "description": "For building interactive data applications in pure Julia (part of Genie.jl ecosystem). Excellent for building web-based interfaces for GenAI applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 244731576,
+                "language": "JavaScript",
+                "last_commit": "2026-07-30T14:08:28Z",
+                "owner": "GenieFramework",
+                "repo": "Stipple.jl",
+                "stars": 356
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Taro.jl",
+              "description": "Powerful parser for various types of documents (interop to Java). Very useful for building Retrieval-Augmented Generation (RAG) applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15478080,
+                "language": "Julia",
+                "last_commit": "2023-08-15T09:21:34Z",
+                "owner": "aviks",
+                "repo": "Taro.jl",
+                "stars": 129
+              }
+            }
+          ],
+          "description": "### Useful Utilities",
+          "node_type": "group",
+          "title": "Generative AI - Previous Generation"
+        }
+      ],
       "title": "Noteworthy Mentions"
     },
     {
@@ -447,11 +540,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-18T17:38:11Z",
+            "last_commit": "2026-08-19T10:38:36Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 144493
+            "stars": 144552
           }
         },
         {
@@ -461,11 +555,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 666299222,
             "language": "Rust",
-            "last_commit": "2026-08-17T18:27:04Z",
+            "last_commit": "2026-08-19T11:41:32Z",
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68055
+            "stars": 68068
           }
         },
         {
@@ -475,11 +570,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 560704231,
             "language": "Python",
             "last_commit": "2026-08-18T16:37:12Z",
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 51731
+            "stars": 51741
           }
         },
         {
@@ -489,11 +585,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 653589102,
             "language": "Python",
             "last_commit": "2026-08-09T14:55:49Z",
             "owner": "567-labs",
             "repo": "instructor",
-            "stars": 13746
+            "stars": 13750
           }
         },
         {
@@ -503,11 +600,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 612350395,
             "language": "Python",
             "last_commit": "2026-08-16T21:16:26Z",
             "owner": "PrefectHQ",
             "repo": "marvin",
-            "stars": 6190
+            "stars": 6189
           }
         }
       ],
@@ -515,8 +613,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:41:29.788Z",
+    "last_updated": "2026-08-19T12:31:14.827Z",
     "original_repository": "svilupp/awesome-generative-ai-meets-julia-language",
+    "original_repository_id": 715223791,
     "original_repository_sha": "27ce7f7b0721f3eba802d8e1aed18e324d48521c",
     "enhanced_repository": "enhansome/enhansome-generative-ai-meets-julia-language",
     "enhanced_repository_description": null,
