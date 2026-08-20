@@ -15,7 +15,7 @@
             "last_commit": "2026-08-16T08:15:53Z",
             "owner": "FluxML",
             "repo": "Flux.jl",
-            "stars": 4736
+            "stars": 4737
           }
         },
         {
@@ -143,7 +143,7 @@
                 "last_commit": "2026-08-18T23:46:53Z",
                 "owner": "tylerjthomas9",
                 "repo": "GoogleGenAI.jl",
-                "stars": 18
+                "stars": 19
               }
             }
           ],
@@ -542,10 +542,10 @@
             "archived": false,
             "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-19T17:44:31Z",
+            "last_commit": "2026-08-20T19:42:04Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 144575
+            "stars": 144644
           }
         },
         {
@@ -557,10 +557,10 @@
             "archived": false,
             "id": 666299222,
             "language": "Rust",
-            "last_commit": "2026-08-19T19:30:00Z",
+            "last_commit": "2026-08-20T03:35:38Z",
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68075
+            "stars": 68082
           }
         },
         {
@@ -572,10 +572,10 @@
             "archived": false,
             "id": 560704231,
             "language": "Python",
-            "last_commit": "2026-08-19T18:48:01Z",
+            "last_commit": "2026-08-20T15:46:41Z",
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 51747
+            "stars": 51770
           }
         },
         {
@@ -590,7 +590,7 @@
             "last_commit": "2026-08-09T14:55:49Z",
             "owner": "567-labs",
             "repo": "instructor",
-            "stars": 13751
+            "stars": 13750
           }
         },
         {
@@ -605,7 +605,7 @@
             "last_commit": "2026-08-16T21:16:26Z",
             "owner": "PrefectHQ",
             "repo": "marvin",
-            "stars": 6189
+            "stars": 6190
           }
         }
       ],
@@ -613,7 +613,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T19:41:27.344Z",
+    "last_updated": "2026-08-20T19:46:56.893Z",
     "original_repository": "svilupp/awesome-generative-ai-meets-julia-language",
     "original_repository_id": 715223791,
     "original_repository_sha": "27ce7f7b0721f3eba802d8e1aed18e324d48521c",
