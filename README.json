@@ -140,7 +140,7 @@
                 "archived": false,
                 "id": 755823991,
                 "language": "Julia",
-                "last_commit": "2026-08-18T23:46:53Z",
+                "last_commit": "2026-08-21T14:38:36Z",
                 "owner": "tylerjthomas9",
                 "repo": "GoogleGenAI.jl",
                 "stars": 19
@@ -542,10 +542,10 @@
             "archived": false,
             "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-20T19:42:04Z",
+            "last_commit": "2026-08-21T18:38:05Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 144644
+            "stars": 144729
           }
         },
         {
@@ -560,7 +560,7 @@
             "last_commit": "2026-08-20T03:35:38Z",
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68082
+            "stars": 68097
           }
         },
         {
@@ -575,7 +575,7 @@
             "last_commit": "2026-08-20T15:46:41Z",
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 51770
+            "stars": 51791
           }
         },
         {
@@ -590,7 +590,7 @@
             "last_commit": "2026-08-09T14:55:49Z",
             "owner": "567-labs",
             "repo": "instructor",
-            "stars": 13750
+            "stars": 13760
           }
         },
         {
@@ -602,10 +602,10 @@
             "archived": false,
             "id": 612350395,
             "language": "Python",
-            "last_commit": "2026-08-16T21:16:26Z",
+            "last_commit": "2026-08-21T08:14:54Z",
             "owner": "PrefectHQ",
             "repo": "marvin",
-            "stars": 6190
+            "stars": 6191
           }
         }
       ],
@@ -613,7 +613,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T19:46:56.893Z",
+    "last_updated": "2026-08-21T19:38:39.035Z",
     "original_repository": "svilupp/awesome-generative-ai-meets-julia-language",
     "original_repository_id": 715223791,
     "original_repository_sha": "27ce7f7b0721f3eba802d8e1aed18e324d48521c",
