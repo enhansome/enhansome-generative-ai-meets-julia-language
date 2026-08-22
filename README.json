@@ -501,7 +501,7 @@
                 "archived": false,
                 "id": 244731576,
                 "language": "JavaScript",
-                "last_commit": "2026-07-30T14:08:28Z",
+                "last_commit": "2026-08-21T22:33:58Z",
                 "owner": "GenieFramework",
                 "repo": "Stipple.jl",
                 "stars": 356
@@ -542,10 +542,10 @@
             "archived": false,
             "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-21T18:38:05Z",
+            "last_commit": "2026-08-22T08:45:46Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 144729
+            "stars": 144782
           }
         },
         {
@@ -560,7 +560,7 @@
             "last_commit": "2026-08-20T03:35:38Z",
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68097
+            "stars": 68112
           }
         },
         {
@@ -575,7 +575,7 @@
             "last_commit": "2026-08-20T15:46:41Z",
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 51791
+            "stars": 51801
           }
         },
         {
@@ -590,7 +590,7 @@
             "last_commit": "2026-08-09T14:55:49Z",
             "owner": "567-labs",
             "repo": "instructor",
-            "stars": 13760
+            "stars": 13765
           }
         },
         {
@@ -613,7 +613,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T19:38:39.035Z",
+    "last_updated": "2026-08-22T19:37:07.034Z",
     "original_repository": "svilupp/awesome-generative-ai-meets-julia-language",
     "original_repository_id": 715223791,
     "original_repository_sha": "27ce7f7b0721f3eba802d8e1aed18e324d48521c",
