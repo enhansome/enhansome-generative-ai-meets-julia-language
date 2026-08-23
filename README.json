@@ -15,7 +15,7 @@
             "last_commit": "2026-08-16T08:15:53Z",
             "owner": "FluxML",
             "repo": "Flux.jl",
-            "stars": 4737
+            "stars": 4738
           }
         },
         {
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 584566467,
             "language": "Julia",
-            "last_commit": "2024-01-03T12:04:34Z",
+            "last_commit": "2026-08-23T09:46:24Z",
             "owner": "aviks",
             "repo": "Whisper.jl",
             "stars": 51
@@ -542,10 +542,10 @@
             "archived": false,
             "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-22T08:45:46Z",
+            "last_commit": "2026-08-23T19:24:50Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 144782
+            "stars": 144834
           }
         },
         {
@@ -560,7 +560,7 @@
             "last_commit": "2026-08-20T03:35:38Z",
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68112
+            "stars": 68120
           }
         },
         {
@@ -575,7 +575,7 @@
             "last_commit": "2026-08-20T15:46:41Z",
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 51801
+            "stars": 51821
           }
         },
         {
@@ -590,7 +590,7 @@
             "last_commit": "2026-08-09T14:55:49Z",
             "owner": "567-labs",
             "repo": "instructor",
-            "stars": 13765
+            "stars": 13771
           }
         },
         {
@@ -613,7 +613,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T19:37:07.034Z",
+    "last_updated": "2026-08-23T19:36:48.758Z",
     "original_repository": "svilupp/awesome-generative-ai-meets-julia-language",
     "original_repository_id": 715223791,
     "original_repository_sha": "27ce7f7b0721f3eba802d8e1aed18e324d48521c",
