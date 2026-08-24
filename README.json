@@ -15,7 +15,7 @@
             "last_commit": "2026-08-16T08:15:53Z",
             "owner": "FluxML",
             "repo": "Flux.jl",
-            "stars": 4738
+            "stars": 4739
           }
         },
         {
@@ -118,6 +118,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "OpenAI.jl",
+              "description": "A community-maintained Julia wrapper to the OpenAI API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 484221513,
+                "language": "Julia",
+                "last_commit": "2026-06-06T17:15:40Z",
+                "owner": "JuliaML",
+                "repo": "OpenAI.jl",
+                "stars": 118
+              }
+            }
+          ],
+          "description": "Access Generative AI models via official APIs.",
+          "node_type": "group",
+          "title": "Model Providers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "GoogleCloud.jl",
               "description": "SDK for Google Cloud. There is an open PR to enable Vertex AI endpoints.",
               "children": [],
@@ -140,7 +162,7 @@
                 "archived": false,
                 "id": 755823991,
                 "language": "Julia",
-                "last_commit": "2026-08-21T14:38:36Z",
+                "last_commit": "2026-08-23T22:33:44Z",
                 "owner": "tylerjthomas9",
                 "repo": "GoogleGenAI.jl",
                 "stars": 19
@@ -150,6 +172,140 @@
           "description": "Access Generative AI models via SDKs of popular cloud service providers.",
           "node_type": "group",
           "title": "Cloud Services Providers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Pinecone.jl",
+              "description": "SDK for Pinecone.io vector database.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 443686317,
+                "language": "Julia",
+                "last_commit": "2024-08-13T23:35:39Z",
+                "owner": "tullytim",
+                "repo": "Pinecone.jl",
+                "stars": 26
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Vector Databases"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ElasticsearchClient.jl",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 617084880,
+                "language": "Julia",
+                "last_commit": "2024-12-23T09:39:26Z",
+                "owner": "LarsWl",
+                "repo": "ElasticsearchClient.jl",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GptSeachPlugin with Elasticsearch",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 658963856,
+                "language": "Julia",
+                "last_commit": "2023-12-07T15:15:48Z",
+                "owner": "rssdev10",
+                "repo": "GptSearchPlugin",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ElasticsearchClient.jl",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 617084880,
+                "language": "Julia",
+                "last_commit": "2024-12-23T09:39:26Z",
+                "owner": "LarsWl",
+                "repo": "ElasticsearchClient.jl",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GptSeachPlugin with Opensearch",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 658963856,
+                "language": "Julia",
+                "last_commit": "2023-12-07T15:15:48Z",
+                "owner": "rssdev10",
+                "repo": "GptSearchPlugin",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PostgreSQL + pgvector",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 359952601,
+                "language": "C",
+                "last_commit": "2026-08-20T03:47:50Z",
+                "owner": "pgvector",
+                "repo": "pgvector",
+                "stars": 22726
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LibPQ.jl",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 106353528,
+                "language": "Julia",
+                "last_commit": "2026-08-24T03:01:43Z",
+                "owner": "JuliaDatabases",
+                "repo": "LibPQ.jl",
+                "stars": 227
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pgvector examples for Julia",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 608987235,
+                "language": "Julia",
+                "last_commit": "2026-07-09T05:12:51Z",
+                "owner": "pgvector",
+                "repo": "Pgvector.jl",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "General-purpose DBMS with Vector Index Support"
         }
       ],
       "title": "API SDKs"
@@ -332,6 +488,27 @@
       "title": "Benchmarks/Comparisons"
     },
     {
+      "description": "Applications and products that \"work\" with Julia language.\nJulia-affiliated applications and products using LLMs",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Genie UI Assistant",
+          "description": "Genie UI Assistant is a GPT-4 powered UI builder helping Genie.jl's users create UIs faster using natural language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 52076467,
+            "language": "Julia",
+            "last_commit": "2026-06-22T06:55:48Z",
+            "owner": "GenieFramework",
+            "repo": "Genie.jl",
+            "stars": 2413
+          }
+        }
+      ],
+      "title": "Applications/Products"
+    },
+    {
       "description": "New projects that are still waiting to prove themselves and collect enough stars.\nUnreleased, experimental but functional:",
       "items": [
         {
@@ -488,10 +665,89 @@
       "title": "Waiting Room"
     },
     {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GPTCodingTools.jl",
+          "description": "Code generation tool for Julia language with useful prompt templates and self-healing features (ala OpenAI Code Interpreter). It does work, but development has been abandoned. (Disclaimer: I'm the author of this package.)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 660788569,
+            "language": "Julia",
+            "last_commit": "2024-07-05T08:21:05Z",
+            "owner": "svilupp",
+            "repo": "GPTCodingTools",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Archived Projects"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tiny Binary RAG",
+          "description": "An excellent deep-dive on semantic search (the \"R\" in RAG). It showcases that with 100 lines of Julia, you can search 15M chunks (~size of Wikipedia) in <20ms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 800174291,
+            "language": "Julia",
+            "last_commit": "2024-06-11T18:04:12Z",
+            "owner": "domluna",
+            "repo": "tinyrag",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Tutorials/learning"
+    },
+    {
       "description": "Some of the below projects are not necessarily Julia-specific, but noteworthy mentions in the generative AI space and interesting for Julia developers.",
       "items": [
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "Ollama",
+              "description": "The best option for those looking to host a Large Language Model locally. Simply start the server and send the requests with HTTP.jl.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 658928958,
+                "language": "Go",
+                "last_commit": "2026-08-23T18:40:59Z",
+                "owner": "ollama",
+                "repo": "ollama",
+                "stars": 179320
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Local Deployments"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GenerativeModels.jl",
+              "description": "Useful library to train more traditional generative models like VAEs. It's built on top of Flux.jl.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 203827060,
+                "language": "Julia",
+                "last_commit": "2022-09-21T03:13:32Z",
+                "owner": "aicenter",
+                "repo": "GenerativeModels.jl",
+                "stars": 32
+              }
+            },
             {
               "node_type": "item",
               "title": "Stipple.jl",
@@ -542,10 +798,10 @@
             "archived": false,
             "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-23T19:24:50Z",
+            "last_commit": "2026-08-24T14:31:31Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 144834
+            "stars": 144894
           }
         },
         {
@@ -560,7 +816,7 @@
             "last_commit": "2026-08-20T03:35:38Z",
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68120
+            "stars": 68131
           }
         },
         {
@@ -575,7 +831,7 @@
             "last_commit": "2026-08-20T15:46:41Z",
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 51821
+            "stars": 51840
           }
         },
         {
@@ -590,7 +846,7 @@
             "last_commit": "2026-08-09T14:55:49Z",
             "owner": "567-labs",
             "repo": "instructor",
-            "stars": 13771
+            "stars": 13774
           }
         },
         {
@@ -613,7 +869,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:36:48.758Z",
+    "last_updated": "2026-08-24T14:41:39.232Z",
     "original_repository": "svilupp/awesome-generative-ai-meets-julia-language",
     "original_repository_id": 715223791,
     "original_repository_sha": "27ce7f7b0721f3eba802d8e1aed18e324d48521c",
