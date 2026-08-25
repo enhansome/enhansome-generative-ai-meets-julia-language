@@ -269,7 +269,7 @@
                 "last_commit": "2026-08-20T03:47:50Z",
                 "owner": "pgvector",
                 "repo": "pgvector",
-                "stars": 22731
+                "stars": 22738
               }
             },
             {
@@ -720,10 +720,10 @@
                 "archived": false,
                 "id": 658928958,
                 "language": "Go",
-                "last_commit": "2026-08-25T03:23:29Z",
+                "last_commit": "2026-08-25T19:27:15Z",
                 "owner": "ollama",
                 "repo": "ollama",
-                "stars": 179371
+                "stars": 179413
               }
             }
           ],
@@ -798,10 +798,10 @@
             "archived": false,
             "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-25T03:51:56Z",
+            "last_commit": "2026-08-25T17:43:07Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 144931
+            "stars": 144972
           }
         },
         {
@@ -816,7 +816,7 @@
             "last_commit": "2026-08-20T03:35:38Z",
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68139
+            "stars": 68148
           }
         },
         {
@@ -831,7 +831,7 @@
             "last_commit": "2026-08-24T21:24:35Z",
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 51856
+            "stars": 51869
           }
         },
         {
@@ -846,7 +846,7 @@
             "last_commit": "2026-08-09T14:55:49Z",
             "owner": "567-labs",
             "repo": "instructor",
-            "stars": 13775
+            "stars": 13778
           }
         },
         {
@@ -869,7 +869,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:31:10.181Z",
+    "last_updated": "2026-08-25T19:47:00.066Z",
     "original_repository": "svilupp/awesome-generative-ai-meets-julia-language",
     "original_repository_id": 715223791,
     "original_repository_sha": "27ce7f7b0721f3eba802d8e1aed18e324d48521c",
