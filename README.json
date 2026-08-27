@@ -75,7 +75,7 @@
             "last_commit": "2026-08-23T09:46:24Z",
             "owner": "aviks",
             "repo": "Whisper.jl",
-            "stars": 51
+            "stars": 52
           }
         },
         {
@@ -269,7 +269,7 @@
                 "last_commit": "2026-08-20T03:47:50Z",
                 "owner": "pgvector",
                 "repo": "pgvector",
-                "stars": 22756
+                "stars": 22777
               }
             },
             {
@@ -720,10 +720,10 @@
                 "archived": false,
                 "id": 658928958,
                 "language": "Go",
-                "last_commit": "2026-08-26T21:56:16Z",
+                "last_commit": "2026-08-27T06:16:40Z",
                 "owner": "ollama",
                 "repo": "ollama",
-                "stars": 179519
+                "stars": 179543
               }
             }
           ],
@@ -757,7 +757,7 @@
                 "archived": false,
                 "id": 244731576,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T22:33:58Z",
+                "last_commit": "2026-08-27T11:02:30Z",
                 "owner": "GenieFramework",
                 "repo": "Stipple.jl",
                 "stars": 356
@@ -798,10 +798,10 @@
             "archived": false,
             "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-26T22:07:06Z",
+            "last_commit": "2026-08-27T11:26:43Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 145073
+            "stars": 145113
           }
         },
         {
@@ -816,7 +816,7 @@
             "last_commit": "2026-08-20T03:35:38Z",
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68160
+            "stars": 68162
           }
         },
         {
@@ -828,10 +828,10 @@
             "archived": false,
             "id": 560704231,
             "language": "Python",
-            "last_commit": "2026-08-26T15:31:33Z",
+            "last_commit": "2026-08-27T04:16:34Z",
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 51883
+            "stars": 51891
           }
         },
         {
@@ -846,7 +846,7 @@
             "last_commit": "2026-08-09T14:55:49Z",
             "owner": "567-labs",
             "repo": "instructor",
-            "stars": 13781
+            "stars": 13786
           }
         },
         {
@@ -869,9 +869,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T22:11:06.404Z",
-    "original_repository": "svilupp/awesome-generative-ai-meets-julia-language",
-    "original_repository_id": 715223791,
+    "last_updated": "2026-08-27T11:39:13.078Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 715223791,
+      "language": null,
+      "last_commit": "2025-02-12T06:02:03Z",
+      "owner": "svilupp",
+      "repo": "awesome-generative-ai-meets-julia-language",
+      "stars": 114
+    },
     "original_repository_sha": "27ce7f7b0721f3eba802d8e1aed18e324d48521c",
     "enhanced_repository": "enhansome/enhansome-generative-ai-meets-julia-language",
     "enhanced_repository_description": null,
