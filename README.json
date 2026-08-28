@@ -15,7 +15,7 @@
             "last_commit": "2026-08-16T08:15:53Z",
             "owner": "FluxML",
             "repo": "Flux.jl",
-            "stars": 4739
+            "stars": 4740
           }
         },
         {
@@ -269,7 +269,7 @@
                 "last_commit": "2026-08-20T03:47:50Z",
                 "owner": "pgvector",
                 "repo": "pgvector",
-                "stars": 22777
+                "stars": 22787
               }
             },
             {
@@ -281,7 +281,7 @@
                 "archived": false,
                 "id": 106353528,
                 "language": "Julia",
-                "last_commit": "2026-08-26T03:03:30Z",
+                "last_commit": "2026-08-27T12:19:56Z",
                 "owner": "JuliaDatabases",
                 "repo": "LibPQ.jl",
                 "stars": 227
@@ -502,7 +502,7 @@
             "last_commit": "2026-06-22T06:55:48Z",
             "owner": "GenieFramework",
             "repo": "Genie.jl",
-            "stars": 2413
+            "stars": 2414
           }
         }
       ],
@@ -720,10 +720,10 @@
                 "archived": false,
                 "id": 658928958,
                 "language": "Go",
-                "last_commit": "2026-08-27T06:16:40Z",
+                "last_commit": "2026-08-28T00:03:45Z",
                 "owner": "ollama",
                 "repo": "ollama",
-                "stars": 179543
+                "stars": 179591
               }
             }
           ],
@@ -757,7 +757,7 @@
                 "archived": false,
                 "id": 244731576,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T11:02:30Z",
+                "last_commit": "2026-08-27T14:53:15Z",
                 "owner": "GenieFramework",
                 "repo": "Stipple.jl",
                 "stars": 356
@@ -798,10 +798,10 @@
             "archived": false,
             "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-27T11:26:43Z",
+            "last_commit": "2026-08-28T02:45:33Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 145113
+            "stars": 145158
           }
         },
         {
@@ -816,7 +816,7 @@
             "last_commit": "2026-08-20T03:35:38Z",
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68162
+            "stars": 68172
           }
         },
         {
@@ -828,10 +828,10 @@
             "archived": false,
             "id": 560704231,
             "language": "Python",
-            "last_commit": "2026-08-27T04:16:34Z",
+            "last_commit": "2026-08-28T00:11:53Z",
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 51891
+            "stars": 51896
           }
         },
         {
@@ -843,10 +843,10 @@
             "archived": false,
             "id": 653589102,
             "language": "Python",
-            "last_commit": "2026-08-09T14:55:49Z",
+            "last_commit": "2026-08-27T17:23:56Z",
             "owner": "567-labs",
             "repo": "instructor",
-            "stars": 13786
+            "stars": 13789
           }
         },
         {
@@ -861,7 +861,7 @@
             "last_commit": "2026-08-21T08:14:54Z",
             "owner": "PrefectHQ",
             "repo": "marvin",
-            "stars": 6192
+            "stars": 6193
           }
         }
       ],
@@ -869,7 +869,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:39:13.078Z",
+    "last_updated": "2026-08-28T03:35:44.078Z",
     "original_repository_info": {
       "archived": false,
       "id": 715223791,
