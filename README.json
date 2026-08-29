@@ -15,8 +15,9 @@
             "last_commit": "2026-08-16T08:15:53Z",
             "owner": "FluxML",
             "repo": "Flux.jl",
-            "stars": 4740
-          }
+            "stars": 4741
+          },
+          "first_seen": "2026-08-29T02:12:56.875Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "chengchingwen",
             "repo": "Transformers.jl",
             "stars": 571
-          }
+          },
+          "first_seen": "2026-08-29T02:12:56.875Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "cafaxo",
             "repo": "Llama2.jl",
             "stars": 141
-          }
+          },
+          "first_seen": "2026-08-29T02:12:56.875Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "chengchingwen",
             "repo": "Pickle.jl",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-29T02:12:56.875Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "aviks",
             "repo": "Whisper.jl",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-29T02:12:56.875Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "marcom",
             "repo": "LlamaCpp.jl",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-29T02:12:56.875Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "chengchingwen",
             "repo": "BytePairEncoding.jl",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-29T02:12:56.875Z"
         }
       ],
       "title": "Models"
@@ -129,7 +136,8 @@
                 "owner": "JuliaML",
                 "repo": "OpenAI.jl",
                 "stars": 118
-              }
+              },
+              "first_seen": "2026-08-29T02:12:56.875Z"
             }
           ],
           "description": "Access Generative AI models via official APIs.",
@@ -151,7 +159,8 @@
                 "owner": "JuliaCloud",
                 "repo": "GoogleCloud.jl",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-29T02:12:56.875Z"
             },
             {
               "node_type": "item",
@@ -166,7 +175,8 @@
                 "owner": "tylerjthomas9",
                 "repo": "GoogleGenAI.jl",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-29T02:12:56.875Z"
             }
           ],
           "description": "Access Generative AI models via SDKs of popular cloud service providers.",
@@ -188,7 +198,8 @@
                 "owner": "tullytim",
                 "repo": "Pinecone.jl",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-29T02:12:56.875Z"
             }
           ],
           "description": null,
@@ -210,7 +221,8 @@
                 "owner": "LarsWl",
                 "repo": "ElasticsearchClient.jl",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T02:12:56.875Z"
             },
             {
               "node_type": "item",
@@ -225,7 +237,8 @@
                 "owner": "rssdev10",
                 "repo": "GptSearchPlugin",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T02:12:56.875Z"
             },
             {
               "node_type": "item",
@@ -240,7 +253,8 @@
                 "owner": "LarsWl",
                 "repo": "ElasticsearchClient.jl",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T02:12:56.875Z"
             },
             {
               "node_type": "item",
@@ -255,7 +269,8 @@
                 "owner": "rssdev10",
                 "repo": "GptSearchPlugin",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T02:12:56.875Z"
             },
             {
               "node_type": "item",
@@ -269,8 +284,9 @@
                 "last_commit": "2026-08-20T03:47:50Z",
                 "owner": "pgvector",
                 "repo": "pgvector",
-                "stars": 22787
-              }
+                "stars": 22805
+              },
+              "first_seen": "2026-08-29T02:12:56.875Z"
             },
             {
               "node_type": "item",
@@ -281,11 +297,12 @@
                 "archived": false,
                 "id": 106353528,
                 "language": "Julia",
-                "last_commit": "2026-08-27T12:19:56Z",
+                "last_commit": "2026-08-28T13:45:52Z",
                 "owner": "JuliaDatabases",
                 "repo": "LibPQ.jl",
                 "stars": 227
-              }
+              },
+              "first_seen": "2026-08-29T02:12:56.875Z"
             },
             {
               "node_type": "item",
@@ -300,7 +317,8 @@
                 "owner": "pgvector",
                 "repo": "Pgvector.jl",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T02:12:56.875Z"
             }
           ],
           "description": null,
@@ -326,7 +344,8 @@
             "owner": "svilupp",
             "repo": "PromptingTools.jl",
             "stars": 172
-          }
+          },
+          "first_seen": "2026-08-29T02:12:56.875Z"
         },
         {
           "node_type": "item",
@@ -341,7 +360,8 @@
             "owner": "ThatcherC",
             "repo": "ReplGPT.jl",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-29T02:12:56.875Z"
         },
         {
           "node_type": "item",
@@ -356,7 +376,8 @@
             "owner": "svilupp",
             "repo": "AIHelpMe.jl",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-29T02:12:56.875Z"
         },
         {
           "node_type": "item",
@@ -371,7 +392,8 @@
             "owner": "svilupp",
             "repo": "LLMTextAnalysis.jl",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-29T02:12:56.875Z"
         },
         {
           "node_type": "item",
@@ -386,7 +408,8 @@
             "owner": "JuliaGenAI",
             "repo": "RAGTools.jl",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-29T02:12:56.875Z"
         },
         {
           "node_type": "item",
@@ -401,7 +424,8 @@
             "owner": "probcomp",
             "repo": "GenGPT3.jl",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-29T02:12:56.875Z"
         },
         {
           "node_type": "item",
@@ -416,7 +440,8 @@
             "owner": "FedeClaudi",
             "repo": "HelpGPT.jl",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-29T02:12:56.875Z"
         },
         {
           "node_type": "item",
@@ -431,7 +456,8 @@
             "owner": "svilupp",
             "repo": "ProToPortal.jl",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T02:12:56.875Z"
         },
         {
           "node_type": "item",
@@ -446,7 +472,8 @@
             "owner": "BuiltWithGenie",
             "repo": "PkgAIHelp",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T02:12:56.875Z"
         }
       ],
       "title": "Packages"
@@ -467,7 +494,8 @@
             "owner": "svilupp",
             "repo": "Julia-LLM-Leaderboard",
             "stars": 86
-          }
+          },
+          "first_seen": "2026-08-29T02:12:56.875Z"
         },
         {
           "node_type": "item",
@@ -482,7 +510,8 @@
             "owner": "01-ai",
             "repo": "HumanEval.jl",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-29T02:12:56.875Z"
         }
       ],
       "title": "Benchmarks/Comparisons"
@@ -503,7 +532,8 @@
             "owner": "GenieFramework",
             "repo": "Genie.jl",
             "stars": 2414
-          }
+          },
+          "first_seen": "2026-08-29T02:12:56.875Z"
         }
       ],
       "title": "Applications/Products"
@@ -524,7 +554,8 @@
             "owner": "svilupp",
             "repo": "FlashRank.jl",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T02:12:56.875Z"
         },
         {
           "node_type": "item",
@@ -539,7 +570,8 @@
             "owner": "svilupp",
             "repo": "SwarmAgents.jl",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T02:12:56.875Z"
         },
         {
           "node_type": "item",
@@ -554,7 +586,8 @@
             "owner": "svilupp",
             "repo": "SemanticCaches.jl",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T02:12:56.875Z"
         },
         {
           "node_type": "item",
@@ -569,7 +602,8 @@
             "owner": "svilupp",
             "repo": "ChromeDevToolsLite.jl",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T02:12:56.875Z"
         },
         {
           "node_type": "item",
@@ -584,7 +618,8 @@
             "owner": "svilupp",
             "repo": "Spehulak.jl",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T02:12:56.875Z"
         },
         {
           "node_type": "item",
@@ -599,7 +634,8 @@
             "owner": "svilupp",
             "repo": "LLMCheatsheets.jl",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T02:12:56.875Z"
         },
         {
           "node_type": "item",
@@ -614,7 +650,8 @@
             "owner": "svilupp",
             "repo": "StreamCallbacks.jl",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T02:12:56.875Z"
         },
         {
           "node_type": "item",
@@ -629,7 +666,8 @@
             "owner": "svilupp",
             "repo": "OmniParserIconDetectors.jl",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T02:12:56.875Z"
         },
         {
           "node_type": "item",
@@ -644,7 +682,8 @@
             "owner": "MurrellGroup",
             "repo": "Jjama3.jl",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-29T02:12:56.875Z"
         },
         {
           "node_type": "item",
@@ -659,7 +698,8 @@
             "owner": "asbisen",
             "repo": "Milvus.jl",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T02:12:56.875Z"
         }
       ],
       "title": "Waiting Room"
@@ -680,7 +720,8 @@
             "owner": "svilupp",
             "repo": "GPTCodingTools",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T02:12:56.875Z"
         }
       ],
       "title": "Archived Projects"
@@ -701,7 +742,8 @@
             "owner": "domluna",
             "repo": "tinyrag",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T02:12:56.875Z"
         }
       ],
       "title": "Tutorials/learning"
@@ -720,11 +762,12 @@
                 "archived": false,
                 "id": 658928958,
                 "language": "Go",
-                "last_commit": "2026-08-28T00:03:45Z",
+                "last_commit": "2026-08-29T00:34:39Z",
                 "owner": "ollama",
                 "repo": "ollama",
-                "stars": 179591
-              }
+                "stars": 179669
+              },
+              "first_seen": "2026-08-29T02:12:56.875Z"
             }
           ],
           "description": null,
@@ -746,7 +789,8 @@
                 "owner": "aicenter",
                 "repo": "GenerativeModels.jl",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-29T02:12:56.875Z"
             },
             {
               "node_type": "item",
@@ -761,7 +805,8 @@
                 "owner": "GenieFramework",
                 "repo": "Stipple.jl",
                 "stars": 356
-              }
+              },
+              "first_seen": "2026-08-29T02:12:56.875Z"
             },
             {
               "node_type": "item",
@@ -776,7 +821,8 @@
                 "owner": "aviks",
                 "repo": "Taro.jl",
                 "stars": 129
-              }
+              },
+              "first_seen": "2026-08-29T02:12:56.875Z"
             }
           ],
           "description": "### Useful Utilities",
@@ -798,11 +844,12 @@
             "archived": false,
             "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-28T02:45:33Z",
+            "last_commit": "2026-08-28T23:20:17Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 145158
-          }
+            "stars": 145210
+          },
+          "first_seen": "2026-08-29T02:12:56.875Z"
         },
         {
           "node_type": "item",
@@ -816,8 +863,9 @@
             "last_commit": "2026-08-20T03:35:38Z",
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68172
-          }
+            "stars": 68175
+          },
+          "first_seen": "2026-08-29T02:12:56.875Z"
         },
         {
           "node_type": "item",
@@ -828,11 +876,12 @@
             "archived": false,
             "id": 560704231,
             "language": "Python",
-            "last_commit": "2026-08-28T00:11:53Z",
+            "last_commit": "2026-08-28T15:33:53Z",
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 51896
-          }
+            "stars": 51909
+          },
+          "first_seen": "2026-08-29T02:12:56.875Z"
         },
         {
           "node_type": "item",
@@ -843,11 +892,12 @@
             "archived": false,
             "id": 653589102,
             "language": "Python",
-            "last_commit": "2026-08-27T17:23:56Z",
+            "last_commit": "2026-08-28T21:57:24Z",
             "owner": "567-labs",
             "repo": "instructor",
-            "stars": 13789
-          }
+            "stars": 13793
+          },
+          "first_seen": "2026-08-29T02:12:56.875Z"
         },
         {
           "node_type": "item",
@@ -861,15 +911,16 @@
             "last_commit": "2026-08-21T08:14:54Z",
             "owner": "PrefectHQ",
             "repo": "marvin",
-            "stars": 6193
-          }
+            "stars": 6192
+          },
+          "first_seen": "2026-08-29T02:12:56.875Z"
         }
       ],
       "title": "Must-Know Python Projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T03:35:44.078Z",
+    "last_updated": "2026-08-29T02:12:56.875Z",
     "original_repository_info": {
       "archived": false,
       "id": 715223791,
