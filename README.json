@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Relax! Flux is the ML library that doesn't make you tensor",
+            "homepage": "https://fluxml.ai/",
             "id": 55262614,
             "language": "Julia",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-16T08:15:53Z",
+            "open_issues": 45,
             "owner": "FluxML",
             "repo": "Flux.jl",
-            "stars": 4741
+            "stars": 4741,
+            "topics": [
+              "data-science",
+              "deep-learning",
+              "flux",
+              "machine-learning",
+              "neural-networks",
+              "the-human-brain"
+            ]
           },
           "first_seen": "2026-08-29T02:12:56.875Z"
         },
@@ -26,12 +38,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Julia Implementation of Transformer models",
+            "homepage": null,
             "id": 163255853,
             "language": "Julia",
+            "license": "MIT",
             "last_commit": "2026-07-31T00:47:30Z",
+            "open_issues": 48,
             "owner": "chengchingwen",
             "repo": "Transformers.jl",
-            "stars": 571
+            "stars": 571,
+            "topics": [
+              "attention",
+              "deep-learning",
+              "flux",
+              "machine-learning",
+              "natural-language-processing",
+              "nlp",
+              "transformer"
+            ]
           },
           "first_seen": "2026-08-29T02:12:56.875Z"
         },
@@ -42,12 +67,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Julia package for inference and training of Llama-style language models",
+            "homepage": null,
             "id": 671962920,
             "language": "Julia",
+            "license": "MIT",
             "last_commit": "2024-08-15T17:29:09Z",
+            "open_issues": 12,
             "owner": "cafaxo",
             "repo": "Llama2.jl",
-            "stars": 141
+            "stars": 141,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:12:56.875Z"
         },
@@ -58,12 +88,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An experimental package for loading and saving object in Python Pickle format.",
+            "homepage": null,
             "id": 253055853,
             "language": "Julia",
+            "license": "MIT",
             "last_commit": "2026-04-12T18:01:40Z",
+            "open_issues": 11,
             "owner": "chengchingwen",
             "repo": "Pickle.jl",
-            "stars": 55
+            "stars": 55,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:12:56.875Z"
         },
@@ -74,12 +109,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of OpenAI Whisper model based on whisper.cpp",
+            "homepage": null,
             "id": 584566467,
             "language": "Julia",
+            "license": "MIT",
             "last_commit": "2026-08-23T09:46:24Z",
+            "open_issues": 3,
             "owner": "aviks",
             "repo": "Whisper.jl",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:12:56.875Z"
         },
@@ -90,12 +130,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Julia interface to llama.cpp, a C/C++ library for running language models",
+            "homepage": null,
             "id": 616636185,
             "language": "Julia",
+            "license": "MIT",
             "last_commit": "2025-02-25T19:13:24Z",
+            "open_issues": 4,
             "owner": "marcom",
             "repo": "LlamaCpp.jl",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:12:56.875Z"
         },
@@ -106,12 +151,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Julia implementation of Byte Pair Encoding for NLP",
+            "homepage": null,
             "id": 160192287,
             "language": "Julia",
+            "license": "MIT",
             "last_commit": "2024-06-15T20:17:48Z",
+            "open_issues": 3,
             "owner": "chengchingwen",
             "repo": "BytePairEncoding.jl",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "nlp",
+              "nlp-library",
+              "nlp-machine-learning",
+              "word-segmentation"
+            ]
           },
           "first_seen": "2026-08-29T02:12:56.875Z"
         }
@@ -130,12 +185,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenAI API wrapper for Julia",
+                "homepage": "https://juliaml.github.io/OpenAI.jl/dev/",
                 "id": 484221513,
                 "language": "Julia",
+                "license": "MIT",
                 "last_commit": "2026-06-06T17:15:40Z",
+                "open_issues": 7,
                 "owner": "JuliaML",
                 "repo": "OpenAI.jl",
-                "stars": 118
+                "stars": 118,
+                "topics": [
+                  "api-wrapper",
+                  "julia",
+                  "openai-api",
+                  "wrapper"
+                ]
               },
               "first_seen": "2026-08-29T02:12:56.875Z"
             }
@@ -153,12 +218,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google Cloud APIs for Julia",
+                "homepage": null,
                 "id": 69424957,
                 "language": "Julia",
+                "license": "NOASSERTION",
                 "last_commit": "2024-01-11T13:06:45Z",
+                "open_issues": 13,
                 "owner": "JuliaCloud",
                 "repo": "GoogleCloud.jl",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "cloud-computing",
+                  "googlecloud",
+                  "julia"
+                ]
               },
               "first_seen": "2026-08-29T02:12:56.875Z"
             },
@@ -169,12 +243,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unofficial Google Gen AI Julia SDK",
+                "homepage": null,
                 "id": 755823991,
                 "language": "Julia",
+                "license": "MIT",
                 "last_commit": "2026-08-23T22:33:44Z",
+                "open_issues": 3,
                 "owner": "tylerjthomas9",
                 "repo": "GoogleGenAI.jl",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:12:56.875Z"
             }
@@ -192,12 +271,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 443686317,
                 "language": "Julia",
+                "license": "MIT",
                 "last_commit": "2024-08-13T23:35:39Z",
+                "open_issues": 7,
                 "owner": "tullytim",
                 "repo": "Pinecone.jl",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:12:56.875Z"
             }
@@ -215,12 +299,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High-level ElasticSearch client for Julia",
+                "homepage": null,
                 "id": 617084880,
                 "language": "Julia",
+                "license": "MIT",
                 "last_commit": "2024-12-23T09:39:26Z",
+                "open_issues": 1,
                 "owner": "LarsWl",
                 "repo": "ElasticsearchClient.jl",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "elasticsearch",
+                  "julia",
+                  "vectorsearch"
+                ]
               },
               "first_seen": "2026-08-29T02:12:56.875Z"
             },
@@ -231,12 +324,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple and pure Julia-based implementation of ChatGPT retrieval plugin logic",
+                "homepage": null,
                 "id": 658963856,
                 "language": "Julia",
+                "license": "MIT",
                 "last_commit": "2023-12-07T15:15:48Z",
+                "open_issues": 0,
                 "owner": "rssdev10",
                 "repo": "GptSearchPlugin",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "chatgpt-plugin",
+                  "julia",
+                  "vectorsearch"
+                ]
               },
               "first_seen": "2026-08-29T02:12:56.875Z"
             },
@@ -247,12 +349,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High-level ElasticSearch client for Julia",
+                "homepage": null,
                 "id": 617084880,
                 "language": "Julia",
+                "license": "MIT",
                 "last_commit": "2024-12-23T09:39:26Z",
+                "open_issues": 1,
                 "owner": "LarsWl",
                 "repo": "ElasticsearchClient.jl",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "elasticsearch",
+                  "julia",
+                  "vectorsearch"
+                ]
               },
               "first_seen": "2026-08-29T02:12:56.875Z"
             },
@@ -263,12 +374,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple and pure Julia-based implementation of ChatGPT retrieval plugin logic",
+                "homepage": null,
                 "id": 658963856,
                 "language": "Julia",
+                "license": "MIT",
                 "last_commit": "2023-12-07T15:15:48Z",
+                "open_issues": 0,
                 "owner": "rssdev10",
                 "repo": "GptSearchPlugin",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "chatgpt-plugin",
+                  "julia",
+                  "vectorsearch"
+                ]
               },
               "first_seen": "2026-08-29T02:12:56.875Z"
             },
@@ -279,12 +399,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source vector similarity search for Postgres",
+                "homepage": null,
                 "id": 359952601,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-20T03:47:50Z",
+                "open_issues": 14,
                 "owner": "pgvector",
                 "repo": "pgvector",
-                "stars": 22805
+                "stars": 22805,
+                "topics": [
+                  "approximate-nearest-neighbor-search",
+                  "nearest-neighbor-search"
+                ]
               },
               "first_seen": "2026-08-29T02:12:56.875Z"
             },
@@ -295,12 +423,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Julia wrapper for libpq",
+                "homepage": null,
                 "id": 106353528,
                 "language": "Julia",
+                "license": "MIT",
                 "last_commit": "2026-08-28T13:45:52Z",
+                "open_issues": 62,
                 "owner": "JuliaDatabases",
                 "repo": "LibPQ.jl",
-                "stars": 227
+                "stars": 227,
+                "topics": [
+                  "database",
+                  "julia",
+                  "julia-language",
+                  "julia-wrapper",
+                  "julialang",
+                  "libpq",
+                  "postgres",
+                  "postgresql"
+                ]
               },
               "first_seen": "2026-08-29T02:12:56.875Z"
             },
@@ -311,12 +453,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "pgvector support for Julia",
+                "homepage": null,
                 "id": 608987235,
                 "language": "Julia",
+                "license": "MIT",
                 "last_commit": "2026-07-09T05:12:51Z",
+                "open_issues": 0,
                 "owner": "pgvector",
                 "repo": "Pgvector.jl",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:12:56.875Z"
             }
@@ -338,12 +485,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Streamline your life using PromptingTools.jl, the Julia package that simplifies interacting with large language models.",
+            "homepage": "https://svilupp.github.io/PromptingTools.jl/dev/",
             "id": 714369078,
             "language": "Julia",
+            "license": "MIT",
             "last_commit": "2026-07-03T03:03:48Z",
+            "open_issues": 35,
             "owner": "svilupp",
             "repo": "PromptingTools.jl",
-            "stars": 172
+            "stars": 172,
+            "topics": [
+              "data-science",
+              "generative-ai",
+              "julia"
+            ]
           },
           "first_seen": "2026-08-29T02:12:56.875Z"
         },
@@ -354,12 +510,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A ChatGPT mode for the Julia REPL",
+            "homepage": null,
             "id": 610991249,
             "language": "Julia",
+            "license": "MIT",
             "last_commit": "2024-04-17T14:27:19Z",
+            "open_issues": 15,
             "owner": "ThatcherC",
             "repo": "ReplGPT.jl",
-            "stars": 101
+            "stars": 101,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:12:56.875Z"
         },
@@ -370,12 +531,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Harnessing Julia's Rich Documentation for Tailored AI-Assisted Coding Guidance",
+            "homepage": "https://svilupp.github.io/AIHelpMe.jl/dev/",
             "id": 746633570,
             "language": "Julia",
+            "license": "MIT",
             "last_commit": "2024-08-19T18:08:49Z",
+            "open_issues": 12,
             "owner": "svilupp",
             "repo": "AIHelpMe.jl",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "generative-ai",
+              "julia",
+              "rag"
+            ]
           },
           "first_seen": "2026-08-29T02:12:56.875Z"
         },
@@ -386,12 +556,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Effortlessly uncover and label thematic insights in large document collections using the power of Large Language Models and Julia Language",
+            "homepage": "http://svilupp.github.io/LLMTextAnalysis.jl/dev",
             "id": 740059731,
             "language": "Julia",
+            "license": "MIT",
             "last_commit": "2025-02-01T18:35:51Z",
+            "open_issues": 4,
             "owner": "svilupp",
             "repo": "LLMTextAnalysis.jl",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "julia",
+              "llm"
+            ]
           },
           "first_seen": "2026-08-29T02:12:56.875Z"
         },
@@ -402,12 +580,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "All-in-one RAG toolkit—from quick prototypes to advanced pipelines.",
+            "homepage": "http://juliagenai.github.io/RAGTools.jl/",
             "id": 819093084,
             "language": "Julia",
+            "license": "MIT",
             "last_commit": "2025-11-27T19:22:23Z",
+            "open_issues": 5,
             "owner": "JuliaGenAI",
             "repo": "RAGTools.jl",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "genai",
+              "rag"
+            ]
           },
           "first_seen": "2026-08-29T02:12:56.875Z"
         },
@@ -418,12 +604,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GPT-3 as a generative function in Gen.",
+            "homepage": null,
             "id": 571791248,
             "language": "Julia",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-14T23:07:52Z",
+            "open_issues": 0,
             "owner": "probcomp",
             "repo": "GenGPT3.jl",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:12:56.875Z"
         },
@@ -434,12 +625,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Let the AI fix your mistakes.",
+            "homepage": null,
             "id": 615781836,
             "language": "Julia",
+            "license": "MIT",
             "last_commit": "2023-04-03T17:59:33Z",
+            "open_issues": 3,
             "owner": "FedeClaudi",
             "repo": "HelpGPT.jl",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:12:56.875Z"
         },
@@ -450,12 +646,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ProToPortal: The Portal to the Magic of PromptingTools and Julia-first LLM Coding",
+            "homepage": "https://svilupp.github.io/ProToPortal.jl/dev/",
             "id": 792859215,
             "language": "Julia",
+            "license": "MIT",
             "last_commit": "2024-07-14T10:24:13Z",
+            "open_issues": 2,
             "owner": "svilupp",
             "repo": "ProToPortal.jl",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:12:56.875Z"
         },
@@ -466,12 +667,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 776155859,
             "language": "Julia",
+            "license": null,
             "last_commit": "2025-02-26T16:38:47Z",
+            "open_issues": 3,
             "owner": "BuiltWithGenie",
             "repo": "PkgAIHelp",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:12:56.875Z"
         }
@@ -488,12 +694,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Provides a platform for the Julia community to compare AI models' abilities in generating syntactically correct Julia code, featuring structured tests and automated evaluations for easy and collaborative benchmarking.",
+            "homepage": "http://svilupp.github.io/Julia-LLM-Leaderboard/dev",
             "id": 727631309,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2024-08-14T08:54:24Z",
+            "open_issues": 2,
             "owner": "svilupp",
             "repo": "Julia-LLM-Leaderboard",
-            "stars": 86
+            "stars": 86,
+            "topics": [
+              "generative-ai",
+              "julia",
+              "julialang"
+            ]
           },
           "first_seen": "2026-08-29T02:12:56.875Z"
         },
@@ -504,12 +719,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Evaluate LLM-synthesized @JuliaLang code.",
+            "homepage": null,
             "id": 754093194,
             "language": "Julia",
+            "license": "MIT",
             "last_commit": "2024-08-17T12:45:41Z",
+            "open_issues": 1,
             "owner": "01-ai",
             "repo": "HumanEval.jl",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:12:56.875Z"
         }
@@ -526,12 +746,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🧞The highly productive Julia web framework",
+            "homepage": "https://genieframework.com",
             "id": 52076467,
             "language": "Julia",
+            "license": "MIT",
             "last_commit": "2026-06-22T06:55:48Z",
+            "open_issues": 126,
             "owner": "GenieFramework",
             "repo": "Genie.jl",
-            "stars": 2414
+            "stars": 2414,
+            "topics": [
+              "framework",
+              "full-stack",
+              "julia",
+              "low-code",
+              "mvc",
+              "orm",
+              "reactive",
+              "vuejs",
+              "web",
+              "webframework"
+            ]
           },
           "first_seen": "2026-08-29T02:12:56.875Z"
         }
@@ -548,12 +784,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rapid Document Ranking, Powered by Lightweight Models.",
+            "homepage": "http://svilupp.github.io/FlashRank.jl/dev/",
             "id": 809021320,
             "language": "Julia",
+            "license": "MIT",
             "last_commit": "2024-11-18T10:14:09Z",
+            "open_issues": 2,
             "owner": "svilupp",
             "repo": "FlashRank.jl",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "genai",
+              "rag",
+              "ranking"
+            ]
           },
           "first_seen": "2026-08-29T02:12:56.875Z"
         },
@@ -564,12 +809,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Educational and opinionated translation of OpenAI's swarm into Julia",
+            "homepage": null,
             "id": 872021270,
             "language": "Julia",
+            "license": "MIT",
             "last_commit": "2024-11-25T22:19:48Z",
+            "open_issues": 1,
             "owner": "svilupp",
             "repo": "SwarmAgents.jl",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:12:56.875Z"
         },
@@ -580,12 +830,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Smarter caching for GenAI: reducing latency, one request at a time.",
+            "homepage": "http://svilupp.github.io/SemanticCaches.jl/dev",
             "id": 819261214,
             "language": "Julia",
+            "license": "MIT",
             "last_commit": "2024-11-18T12:10:48Z",
+            "open_issues": 1,
             "owner": "svilupp",
             "repo": "SemanticCaches.jl",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "caching",
+              "embeddings",
+              "genai"
+            ]
           },
           "first_seen": "2026-08-29T02:12:56.875Z"
         },
@@ -596,12 +855,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 892259836,
             "language": "Julia",
+            "license": "MIT",
             "last_commit": "2025-11-24T05:18:31Z",
+            "open_issues": 2,
             "owner": "svilupp",
             "repo": "ChromeDevToolsLite.jl",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:12:56.875Z"
         },
@@ -612,12 +876,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GenAI observability application in Julia",
+            "homepage": "https://svilupp.github.io/Spehulak.jl/dev/",
             "id": 789668216,
             "language": "Julia",
+            "license": "MIT",
             "last_commit": "2024-12-23T08:38:27Z",
+            "open_issues": 2,
             "owner": "svilupp",
             "repo": "Spehulak.jl",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "genai",
+              "genie",
+              "llm-evaluation",
+              "observability",
+              "stipple"
+            ]
           },
           "first_seen": "2026-08-29T02:12:56.875Z"
         },
@@ -628,12 +903,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Instantly transform GitHub repositories into AI-friendly cheatsheets",
+            "homepage": "https://svilupp.github.io/LLMCheatsheets.jl/dev/",
             "id": 854078357,
             "language": "Julia",
+            "license": "MIT",
             "last_commit": "2024-11-18T15:13:21Z",
+            "open_issues": 1,
             "owner": "svilupp",
             "repo": "LLMCheatsheets.jl",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "cheatsheet",
+              "genai",
+              "llm",
+              "prompting"
+            ]
           },
           "first_seen": "2026-08-29T02:12:56.875Z"
         },
@@ -644,12 +929,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unified streaming interfaces for LLMs across various API providers. No more manual SSE parsing!",
+            "homepage": "http://svilupp.github.io/StreamCallbacks.jl/dev",
             "id": 854093216,
             "language": "Julia",
+            "license": "MIT",
             "last_commit": "2025-11-28T14:04:11Z",
+            "open_issues": 6,
             "owner": "svilupp",
             "repo": "StreamCallbacks.jl",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "genai",
+              "llm",
+              "streaming"
+            ]
           },
           "first_seen": "2026-08-29T02:12:56.875Z"
         },
@@ -660,12 +954,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 894072038,
             "language": "Julia",
+            "license": "MIT",
             "last_commit": "2025-11-24T08:23:34Z",
+            "open_issues": 1,
             "owner": "svilupp",
             "repo": "OmniParserIconDetectors.jl",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:12:56.875Z"
         },
@@ -676,12 +975,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 887581071,
             "language": "Julia",
+            "license": "MIT",
             "last_commit": "2026-06-22T06:04:38Z",
+            "open_issues": 8,
             "owner": "MurrellGroup",
             "repo": "Jjama3.jl",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:12:56.875Z"
         },
@@ -692,12 +996,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 764468659,
             "language": "Julia",
+            "license": null,
             "last_commit": "2024-02-28T08:44:23Z",
+            "open_issues": 0,
             "owner": "asbisen",
             "repo": "Milvus.jl",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:12:56.875Z"
         }
@@ -714,12 +1023,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Set of utilities to write code and tests with OpenAI.jl",
+            "homepage": null,
             "id": 660788569,
             "language": "Julia",
+            "license": "MIT",
             "last_commit": "2024-07-05T08:21:05Z",
+            "open_issues": 0,
             "owner": "svilupp",
             "repo": "GPTCodingTools",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:12:56.875Z"
         }
@@ -736,12 +1050,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 800174291,
             "language": "Julia",
+            "license": null,
             "last_commit": "2024-06-11T18:04:12Z",
+            "open_issues": 0,
             "owner": "domluna",
             "repo": "tinyrag",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:12:56.875Z"
         }
@@ -760,12 +1079,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+                "homepage": "https://ollama.com",
                 "id": 658928958,
                 "language": "Go",
-                "last_commit": "2026-08-29T00:34:39Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T03:47:58Z",
+                "open_issues": 3832,
                 "owner": "ollama",
                 "repo": "ollama",
-                "stars": 179669
+                "stars": 179675,
+                "topics": [
+                  "deepseek",
+                  "gemma",
+                  "gemma3",
+                  "glm",
+                  "go",
+                  "golang",
+                  "gpt-oss",
+                  "llama",
+                  "llama3",
+                  "llm",
+                  "llms",
+                  "minimax",
+                  "mistral",
+                  "ollama",
+                  "qwen"
+                ]
               },
               "first_seen": "2026-08-29T02:12:56.875Z"
             }
@@ -783,12 +1123,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generative Models with trainable conditional distributions in Julia!",
+                "homepage": null,
                 "id": 203827060,
                 "language": "Julia",
+                "license": "MIT",
                 "last_commit": "2022-09-21T03:13:32Z",
+                "open_issues": 9,
                 "owner": "aicenter",
                 "repo": "GenerativeModels.jl",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:12:56.875Z"
             },
@@ -799,12 +1144,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The reactive UI library for interactive data applications with pure Julia.",
+                "homepage": null,
                 "id": 244731576,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T14:53:15Z",
+                "open_issues": 38,
                 "owner": "GenieFramework",
                 "repo": "Stipple.jl",
-                "stars": 356
+                "stars": 356,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:12:56.875Z"
             },
@@ -815,12 +1165,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Read and write Excel, Word and PDF documents in Julia",
+                "homepage": null,
                 "id": 15478080,
                 "language": "Julia",
+                "license": "NOASSERTION",
                 "last_commit": "2023-08-15T09:21:34Z",
+                "open_issues": 5,
                 "owner": "aviks",
                 "repo": "Taro.jl",
-                "stars": 129
+                "stars": 129,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:12:56.875Z"
             }
@@ -842,12 +1197,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The agent engineering platform.",
+            "homepage": "https://docs.langchain.com/langchain/",
             "id": 552661142,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T23:20:17Z",
+            "open_issues": 431,
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 145210
+            "stars": 145216,
+            "topics": [
+              "agents",
+              "ai",
+              "ai-agents",
+              "anthropic",
+              "chatgpt",
+              "deepagents",
+              "enterprise",
+              "framework",
+              "gemini",
+              "generative-ai",
+              "langchain",
+              "langgraph",
+              "llm",
+              "multiagent",
+              "open-source",
+              "openai",
+              "pydantic",
+              "python",
+              "rag",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T02:12:56.875Z"
         },
@@ -858,12 +1239,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A coding agent for open models like Kimi K3",
+            "homepage": "http://openinterpreter.com/",
             "id": 666299222,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-20T03:35:38Z",
+            "open_issues": 8,
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68175
+            "stars": 68177,
+            "topics": [
+              "acp",
+              "coding-agent",
+              "deepseek",
+              "kimi",
+              "qwen",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T02:12:56.875Z"
         },
@@ -874,12 +1267,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LlamaIndex is the leading document agent and OCR platform",
+            "homepage": "https://developers.llamaindex.ai",
             "id": 560704231,
             "language": "Python",
-            "last_commit": "2026-08-28T15:33:53Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:43:47Z",
+            "open_issues": 670,
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 51909
+            "stars": 51909,
+            "topics": [
+              "agents",
+              "application",
+              "data",
+              "fine-tuning",
+              "framework",
+              "llamaindex",
+              "llm",
+              "multi-agents",
+              "rag",
+              "vector-database"
+            ]
           },
           "first_seen": "2026-08-29T02:12:56.875Z"
         },
@@ -890,12 +1299,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "structured outputs for llms ",
+            "homepage": "https://python.useinstructor.com/",
             "id": 653589102,
             "language": "Python",
-            "last_commit": "2026-08-28T21:57:24Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:44:55Z",
+            "open_issues": 39,
             "owner": "567-labs",
             "repo": "instructor",
-            "stars": 13793
+            "stars": 13795,
+            "topics": [
+              "openai",
+              "openai-function-calli",
+              "openai-functions",
+              "pydantic-v2",
+              "python",
+              "validation"
+            ]
           },
           "first_seen": "2026-08-29T02:12:56.875Z"
         },
@@ -906,12 +1327,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "an ambient intelligence library",
+            "homepage": "https://marvin.mintlify.app",
             "id": 612350395,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-21T08:14:54Z",
+            "open_issues": 114,
             "owner": "PrefectHQ",
             "repo": "marvin",
-            "stars": 6192
+            "stars": 6192,
+            "topics": [
+              "agents",
+              "ai",
+              "ambient-ai",
+              "chatbots",
+              "gpt",
+              "llm",
+              "nli",
+              "python",
+              "structured-outputs"
+            ]
           },
           "first_seen": "2026-08-29T02:12:56.875Z"
         }
@@ -920,15 +1356,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:12:56.875Z",
+    "last_updated": "2026-08-29T05:01:39.678Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Comprehensive guide to generative AI projects and resources in Julia.",
+      "homepage": null,
       "id": 715223791,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-02-12T06:02:03Z",
+      "open_issues": 2,
       "owner": "svilupp",
       "repo": "awesome-generative-ai-meets-julia-language",
-      "stars": 114
+      "stars": 114,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "data-science",
+        "generative-ai",
+        "julia"
+      ]
     },
     "original_repository_sha": "27ce7f7b0721f3eba802d8e1aed18e324d48521c",
     "enhanced_repository": "enhansome/enhansome-generative-ai-meets-julia-language",
