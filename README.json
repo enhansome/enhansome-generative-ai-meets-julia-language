@@ -408,7 +408,7 @@
                 "open_issues": 14,
                 "owner": "pgvector",
                 "repo": "pgvector",
-                "stars": 22922,
+                "stars": 22928,
                 "topics": [
                   "approximate-nearest-neighbor-search",
                   "nearest-neighbor-search"
@@ -428,7 +428,7 @@
                 "id": 106353528,
                 "language": "Julia",
                 "license": "MIT",
-                "last_commit": "2026-09-05T06:40:58Z",
+                "last_commit": "2026-09-06T06:50:31Z",
                 "open_issues": 62,
                 "owner": "JuliaDatabases",
                 "repo": "LibPQ.jl",
@@ -1085,10 +1085,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-09-05T00:52:34Z",
-                "open_issues": 3906,
+                "open_issues": 3915,
                 "owner": "ollama",
                 "repo": "ollama",
-                "stars": 180241,
+                "stars": 180297,
                 "topics": [
                   "deepseek",
                   "gemma",
@@ -1153,7 +1153,7 @@
                 "open_issues": 38,
                 "owner": "GenieFramework",
                 "repo": "Stipple.jl",
-                "stars": 356,
+                "stars": 355,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:12:56.875Z"
@@ -1202,11 +1202,11 @@
             "id": 552661142,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-05T19:25:34Z",
-            "open_issues": 453,
+            "last_commit": "2026-09-06T19:33:30Z",
+            "open_issues": 450,
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 145710,
+            "stars": 145807,
             "topics": [
               "agents",
               "ai",
@@ -1244,11 +1244,11 @@
             "id": 666299222,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T17:16:45Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-06T06:12:33Z",
+            "open_issues": 1,
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68246,
+            "stars": 68252,
             "topics": [
               "acp",
               "coding-agent",
@@ -1273,10 +1273,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-05T04:39:33Z",
-            "open_issues": 705,
+            "open_issues": 715,
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 52031,
+            "stars": 52040,
             "topics": [
               "agents",
               "application",
@@ -1305,10 +1305,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-05T05:10:37Z",
-            "open_issues": 35,
+            "open_issues": 39,
             "owner": "567-labs",
             "repo": "instructor",
-            "stars": 13831,
+            "stars": 13832,
             "topics": [
               "openai",
               "openai-function-calli",
@@ -1356,7 +1356,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T21:16:25.288Z",
+    "last_updated": "2026-09-06T21:22:37.213Z",
     "original_repository_info": {
       "archived": false,
       "description": "Comprehensive guide to generative AI projects and resources in Julia.",
@@ -1368,7 +1368,7 @@
       "open_issues": 2,
       "owner": "svilupp",
       "repo": "awesome-generative-ai-meets-julia-language",
-      "stars": 114,
+      "stars": 115,
       "topics": [
         "awesome",
         "awesome-list",
