@@ -19,7 +19,7 @@
             "open_issues": 46,
             "owner": "FluxML",
             "repo": "Flux.jl",
-            "stars": 4745,
+            "stars": 4746,
             "topics": [
               "data-science",
               "deep-learning",
@@ -408,7 +408,7 @@
                 "open_issues": 17,
                 "owner": "pgvector",
                 "repo": "pgvector",
-                "stars": 23020,
+                "stars": 23032,
                 "topics": [
                   "approximate-nearest-neighbor-search",
                   "nearest-neighbor-search"
@@ -428,7 +428,7 @@
                 "id": 106353528,
                 "language": "Julia",
                 "license": "MIT",
-                "last_commit": "2026-09-15T07:09:10Z",
+                "last_commit": "2026-09-16T07:09:52Z",
                 "open_issues": 62,
                 "owner": "JuliaDatabases",
                 "repo": "LibPQ.jl",
@@ -494,7 +494,7 @@
             "open_issues": 36,
             "owner": "svilupp",
             "repo": "PromptingTools.jl",
-            "stars": 172,
+            "stars": 173,
             "topics": [
               "data-science",
               "generative-ai",
@@ -565,7 +565,7 @@
             "open_issues": 4,
             "owner": "svilupp",
             "repo": "LLMTextAnalysis.jl",
-            "stars": 41,
+            "stars": 42,
             "topics": [
               "julia",
               "llm"
@@ -1084,11 +1084,11 @@
                 "id": 658928958,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-15T20:38:19Z",
-                "open_issues": 4013,
+                "last_commit": "2026-09-16T21:10:17Z",
+                "open_issues": 4021,
                 "owner": "ollama",
                 "repo": "ollama",
-                "stars": 181068,
+                "stars": 181184,
                 "topics": [
                   "deepseek",
                   "gemma",
@@ -1202,11 +1202,11 @@
             "id": 552661142,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-15T20:04:05Z",
-            "open_issues": 494,
+            "last_commit": "2026-09-16T19:58:47Z",
+            "open_issues": 529,
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 146395,
+            "stars": 146469,
             "topics": [
               "agents",
               "ai",
@@ -1248,7 +1248,7 @@
             "open_issues": 1,
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68333,
+            "stars": 68350,
             "topics": [
               "acp",
               "coding-agent",
@@ -1273,11 +1273,11 @@
             "id": 560704231,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-15T01:48:43Z",
-            "open_issues": 773,
+            "last_commit": "2026-09-15T23:21:17Z",
+            "open_issues": 785,
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 52173,
+            "stars": 52191,
             "topics": [
               "agents",
               "application",
@@ -1305,11 +1305,11 @@
             "id": 653589102,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-11T22:53:36Z",
-            "open_issues": 57,
+            "last_commit": "2026-09-16T21:58:03Z",
+            "open_issues": 62,
             "owner": "567-labs",
             "repo": "instructor",
-            "stars": 13897,
+            "stars": 13908,
             "topics": [
               "openai",
               "openai-function-calli",
@@ -1357,7 +1357,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T22:15:12.990Z",
+    "last_updated": "2026-09-16T22:11:39.819Z",
     "original_repository_info": {
       "archived": false,
       "description": "Comprehensive guide to generative AI projects and resources in Julia.",
