@@ -295,7 +295,7 @@
             {
               "node_type": "item",
               "title": "ElasticsearchClient.jl",
-              "description": null,
+              "description": "LarsWl/ElasticsearchClient.jl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -320,7 +320,7 @@
             {
               "node_type": "item",
               "title": "GptSeachPlugin with Elasticsearch",
-              "description": null,
+              "description": "rssdev10/GptSearchPlugin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -345,7 +345,7 @@
             {
               "node_type": "item",
               "title": "ElasticsearchClient.jl",
-              "description": null,
+              "description": "LarsWl/ElasticsearchClient.jl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -370,7 +370,7 @@
             {
               "node_type": "item",
               "title": "GptSeachPlugin with Opensearch",
-              "description": null,
+              "description": "rssdev10/GptSearchPlugin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -395,7 +395,7 @@
             {
               "node_type": "item",
               "title": "PostgreSQL + pgvector",
-              "description": null,
+              "description": "pgvector/pgvector",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -419,7 +419,7 @@
             {
               "node_type": "item",
               "title": "LibPQ.jl",
-              "description": null,
+              "description": "JuliaDatabases/LibPQ.jl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -449,7 +449,7 @@
             {
               "node_type": "item",
               "title": "pgvector examples for Julia",
-              "description": null,
+              "description": "pgvector/Pgvector.jl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1084,11 +1084,11 @@
                 "id": 658928958,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-02T18:52:29Z",
-                "open_issues": 4155,
+                "last_commit": "2026-10-03T04:09:34Z",
+                "open_issues": 4159,
                 "owner": "ollama",
                 "repo": "ollama",
-                "stars": 182066,
+                "stars": 182072,
                 "topics": [
                   "deepseek",
                   "gemma",
@@ -1203,10 +1203,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-02T22:57:27Z",
-            "open_issues": 605,
+            "open_issues": 606,
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 147388,
+            "stars": 147391,
             "topics": [
               "agents",
               "ai",
@@ -1248,7 +1248,7 @@
             "open_issues": 11,
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68490,
+            "stars": 68494,
             "topics": [
               "acp",
               "coding-agent",
@@ -1277,7 +1277,7 @@
             "open_issues": 848,
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 52385,
+            "stars": 52388,
             "topics": [
               "agents",
               "application",
@@ -1357,7 +1357,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:58:44.752Z",
+    "last_updated": "2026-10-03T04:47:02.475Z",
     "original_repository_info": {
       "archived": false,
       "description": "Comprehensive guide to generative AI projects and resources in Julia.",
