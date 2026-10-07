@@ -42,9 +42,9 @@ Generative AI encompasses algorithms and models that leverage large-scale machin
 
 Build, train, and deploy Large language models (and other modalities) in Julia.
 
-* [Flux.jl](https://github.com/FluxML/Flux.jl) ⭐ 4,751 | 🐛 47 | 🌐 Julia | 📅 2026-09-24 - Flux is a machine learning library for Julia that is flexible and allows building complex models. However, at the time of writing, I'm not aware of any Large Language Models (LLMs) that have been implemented and trained in Flux.
-* [Transformers.jl](https://github.com/chengchingwen/Transformers.jl) ⭐ 572 | 🐛 48 | 🌐 Julia | 📅 2026-07-31 - Transformers.jl is a Julia package that provides a high-level API for using pre-trained transformer models. It also allows to download any models from Hugging Face hub with `@hgf_str` macro string.
-* [Llama2.jl](https://github.com/cafaxo/Llama2.jl) ⭐ 141 | 🐛 12 | 🌐 Julia | 📅 2024-08-15 - Llama2.jl provides simple code for inference and training of llama2-based language models based on [llama2.c](https://github.com/karpathy/llama2.c) ⭐ 20,153 | 🐛 191 | 🌐 C | 📅 2024-08-06. It supports loading quantized weights in GGUF format (`q4_K_S` variant). Other similar projects: [LanguageModels.jl](https://github.com/rai-llc/LanguageModels.jl) ⭐ 65 | 🐛 8 | 🌐 Julia | 📅 2023-10-08
+* [Flux.jl](https://github.com/FluxML/Flux.jl) ⭐ 4,752 | 🐛 47 | 🌐 Julia | 📅 2026-09-24 - Flux is a machine learning library for Julia that is flexible and allows building complex models. However, at the time of writing, I'm not aware of any Large Language Models (LLMs) that have been implemented and trained in Flux.
+* [Transformers.jl](https://github.com/chengchingwen/Transformers.jl) ⭐ 573 | 🐛 48 | 🌐 Julia | 📅 2026-07-31 - Transformers.jl is a Julia package that provides a high-level API for using pre-trained transformer models. It also allows to download any models from Hugging Face hub with `@hgf_str` macro string.
+* [Llama2.jl](https://github.com/cafaxo/Llama2.jl) ⭐ 141 | 🐛 12 | 🌐 Julia | 📅 2024-08-15 - Llama2.jl provides simple code for inference and training of llama2-based language models based on [llama2.c](https://github.com/karpathy/llama2.c) ⭐ 20,158 | 🐛 191 | 🌐 C | 📅 2024-08-06. It supports loading quantized weights in GGUF format (`q4_K_S` variant). Other similar projects: [LanguageModels.jl](https://github.com/rai-llc/LanguageModels.jl) ⭐ 65 | 🐛 8 | 🌐 Julia | 📅 2023-10-08
 * [Pickle.jl](https://github.com/chengchingwen/Pickle.jl) ⭐ 55 | 🐛 12 | 🌐 Julia | 📅 2026-04-12 - Great package for loading Pytorch weights into Julia (if you want to implement models yourself).
 * [Whisper.jl](https://github.com/aviks/Whisper.jl) ⭐ 52 | 🐛 2 | 🌐 Julia | 📅 2026-09-25 - Julia interface to whisper.cpp, a high-performance inference in C/C++ of OpenAI's Whisper automatic speech recognition (ASR) model.
 * [Llama.jl](https://github.com/marcom/Llama.jl/) ⭐ 33 | 🐛 4 | 🌐 Julia | 📅 2025-02-25 - Julia interface to llama.cpp, a C/C++ library for running language models locally. Supports a wide range of models.
@@ -75,7 +75,7 @@ Access Generative AI models via SDKs of popular cloud service providers.
 | :------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                       [Elasticsearch](https://www.elastic.co/elasticsearch)                                      | [ElasticsearchClient.jl](https://github.com/LarsWl/ElasticsearchClient.jl) ⭐ 6 \| 🐛 1 \| 🌐 Julia \| 📅 2024-12-23 | [GptSeachPlugin with Elasticsearch](https://github.com/rssdev10/GptSearchPlugin/tree/main/ext/ElasticsearchClientExt) ⭐ 7 \| 🐛 0 \| 🌐 Julia \| 📅 2023-12-07 |
 |                                               [OpenSearch](https://opensearch.org/)                                              | [ElasticsearchClient.jl](https://github.com/LarsWl/ElasticsearchClient.jl) ⭐ 6 \| 🐛 1 \| 🌐 Julia \| 📅 2024-12-23 |       [GptSeachPlugin with Opensearch](https://github.com/rssdev10/GptSearchPlugin/tree/main/ext/OpenSearchExt) ⭐ 7 \| 🐛 0 \| 🌐 Julia \| 📅 2023-12-07       |
-| PostgreSQL + [pgvector](https://github.com/pgvector/pgvector?tab=readme-ov-file#hnsw) ⭐ 23,258 \| 🐛 17 \| 🌐 C \| 📅 2026-10-06 |              [LibPQ.jl](https://github.com/iamed2/LibPQ.jl) ⭐ 227 \| 🐛 45 \| 🌐 Julia \| 📅 2026-10-06             |                       [pgvector examples for Julia](https://github.com/pgvector/pgvector-julia) ⭐ 8 \| 🐛 0 \| 🌐 Julia \| 📅 2026-07-09                       |
+| PostgreSQL + [pgvector](https://github.com/pgvector/pgvector?tab=readme-ov-file#hnsw) ⭐ 23,265 \| 🐛 17 \| 🌐 C \| 📅 2026-10-07 |              [LibPQ.jl](https://github.com/iamed2/LibPQ.jl) ⭐ 227 \| 🐛 45 \| 🌐 Julia \| 📅 2026-10-07             |                       [pgvector examples for Julia](https://github.com/pgvector/pgvector-julia) ⭐ 8 \| 🐛 0 \| 🌐 Julia \| 📅 2026-07-09                       |
 
 ## Packages
 
@@ -93,7 +93,7 @@ Access Generative AI models via SDKs of popular cloud service providers.
 
 [JLLs](https://docs.binarybuilder.org/stable/jll/) are prebuilt libraries and executables to easily install and call non-Julia projects (eg, C/C++). Often they are the first step towards a Julia package with an idiomatic interface.
 
-* [llama\_cpp\_jll.jl](https://juliahub.com/ui/Packages/General/llama_cpp_jll/) - JLL package for [llama.cpp](https://github.com/ggerganov/llama.cpp) ⭐ 130,509 | 🐛 2,501 | 🌐 C++ | 📅 2026-10-06, the best interface for quantized llama2-style models.
+* [llama\_cpp\_jll.jl](https://juliahub.com/ui/Packages/General/llama_cpp_jll/) - JLL package for [llama.cpp](https://github.com/ggerganov/llama.cpp) ⭐ 130,612 | 🐛 2,499 | 🌐 C++ | 📅 2026-10-07, the best interface for quantized llama2-style models.
 
 ## Benchmarks/Comparisons
 
@@ -113,7 +113,7 @@ Applications and products that "work" with Julia language.
 Julia-affiliated applications and products using LLMs
 
 * [Genie UI Assistant](https://forem.julialang.org/pgimenez/introducing-genie-ui-assistant-the-ai-powered-ui-builder-for-genie-apps-3jpe) - Genie UI Assistant is a GPT-4 powered
-  UI builder helping [Genie.jl's](https://github.com/GenieFramework/Genie.jl) ⭐ 2,420 | 🐛 123 | 🌐 Julia | 📅 2026-10-01 users create UIs faster using natural language.
+  UI builder helping [Genie.jl's](https://github.com/GenieFramework/Genie.jl) ⭐ 2,421 | 🐛 123 | 🌐 Julia | 📅 2026-10-01 users create UIs faster using natural language.
 * [JuliaHub AskAI](https://juliahub.com/ui/AskAI) - AskAI is a [JuliaHub's](https://juliahub.com) RAG (Retrieval Augmented Generation) application that allows users to ask questions about the Julia language and its ecosystem. It is free, but you need to be logged in to JuliaHub to use it.
 * [Comind](https://comind.me) - A social network, messaging, and LLM interface built in Julia.
 
@@ -152,7 +152,7 @@ Some of the below projects are not necessarily Julia-specific, but noteworthy me
 
 ### Local Deployments
 
-* [Ollama](https://github.com/jmorganca/ollama) ⭐ 182,392 | 🐛 4,185 | 🌐 Go | 📅 2026-10-06 - The best option for those looking to host a Large Language Model locally. Simply start the server and send the requests with [HTTP.jl](https://github.com/JuliaWeb/HTTP.jl) ⭐ 687 | 🐛 0 | 🌐 Julia | 📅 2026-10-05.
+* [Ollama](https://github.com/jmorganca/ollama) ⭐ 182,496 | 🐛 4,194 | 🌐 Go | 📅 2026-10-07 - The best option for those looking to host a Large Language Model locally. Simply start the server and send the requests with [HTTP.jl](https://github.com/JuliaWeb/HTTP.jl) ⭐ 687 | 🐛 0 | 🌐 Julia | 📅 2026-10-05.
 * [LM Studio](https://lmstudio.ai/) - A desktop app for hosting and interacting with LLMs locally. It's a great option for those who want to use LLMs without coding. It's free for **personal use**.
 
 ### Generative AI - Previous Generation
@@ -168,17 +168,17 @@ Some of the below projects are not necessarily Julia-specific, but noteworthy me
 
 Python is on the leading edge of the generative AI revolution. Fortunately, we have [PythonCall.jl](https://github.com/JuliaPy/PythonCall.jl) ⭐ 1,078 | 🐛 215 | 🌐 Julia | 📅 2026-10-04 allowing us to easily call all the below Python packages.
 
-* [LangChain](https://github.com/langchain-ai/langchain) ⭐ 147,499 | 🐛 638 | 🌐 Python | 📅 2026-10-06 - The best option for building applications on top of LLMs (eg, Chains, Agents). It has a lot of adapters for common models, databases, and other services.
-* [Open Interpreter](https://github.com/KillianLucas/open-interpreter) ⭐ 68,519 | 🐛 12 | 🌐 Rust | 📅 2026-10-06 - Let LLMs run code on your computer (eg, Python, JavaScript, Shell, and more). An open-source local alternative to OpenAI Code Interpreter.
-* [Llama Index](https://github.com/run-llama/llama_index) ⭐ 52,423 | 🐛 899 | 🌐 Python | 📅 2026-10-06 - Similar to LangChain but with a focus on data-centered applications like RAG.
-* [Instructor](https://github.com/jxnl/instructor) ⭐ 13,981 | 🐛 147 | 🌐 Python | 📅 2026-10-05 - Simple yet powerful structured extraction framework on top of OpenAI API. Excellent to understand the power of function calling API together with Pydantic.
-* [Marvin](https://github.com/prefecthq/marvin) ⭐ 6,201 | 🐛 118 | 🌐 Python | 📅 2026-09-23 - Powerful building blocks to quickly build AI applications and expose them via a production-ready API.
+* [LangChain](https://github.com/langchain-ai/langchain) ⭐ 147,543 | 🐛 629 | 🌐 Python | 📅 2026-10-07 - The best option for building applications on top of LLMs (eg, Chains, Agents). It has a lot of adapters for common models, databases, and other services.
+* [Open Interpreter](https://github.com/KillianLucas/open-interpreter) ⭐ 68,520 | 🐛 11 | 🌐 Rust | 📅 2026-10-07 - Let LLMs run code on your computer (eg, Python, JavaScript, Shell, and more). An open-source local alternative to OpenAI Code Interpreter.
+* [Llama Index](https://github.com/run-llama/llama_index) ⭐ 52,435 | 🐛 899 | 🌐 Python | 📅 2026-10-06 - Similar to LangChain but with a focus on data-centered applications like RAG.
+* [Instructor](https://github.com/jxnl/instructor) ⭐ 13,984 | 🐛 148 | 🌐 Python | 📅 2026-10-07 - Simple yet powerful structured extraction framework on top of OpenAI API. Excellent to understand the power of function calling API together with Pydantic.
+* [Marvin](https://github.com/prefecthq/marvin) ⭐ 6,202 | 🐛 118 | 🌐 Python | 📅 2026-09-23 - Powerful building blocks to quickly build AI applications and expose them via a production-ready API.
 * [HuggingFace Transformers](https://huggingface.co/docs/transformers/index) - The most popular library for accessing LLMs and other models. It can be mostly used via Transformers.jl (see above).
 
 ## Other Awesome Lists
 
-* [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) ⭐ 12,712 | 🐛 816 | 📅 2026-10-03 - Great list for all things generative AI. An inspiration for this list!
+* [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) ⭐ 12,717 | 🐛 829 | 📅 2026-10-03 - Great list for all things generative AI. An inspiration for this list!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
